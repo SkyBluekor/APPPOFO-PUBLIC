@@ -7,3 +7,8 @@
 *.wav binary
 *.otf binary
 *.ttf binary
+
+# Exclude third-party code/assets from GitHub language breakdown.
+# Keep app-written C#, Java/Android plugins, JS API, Python/PowerShell tools and app shaders counted.
+"Assets/TextMesh Pro/**" linguist-vendored
+Packages/com.opencvplus.unity/** linguist-vendored
