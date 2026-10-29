@@ -1,0 +1,15 @@
+using System;
+using System.Security.Cryptography;
+using System.Text;
+using AppPofo.Presentation.Common;
+using var deviceKey = new WindowsDeviceKey(null, true);
+var xy=deviceKey.PublicCoordinates();
+var x=new byte[32];var y=new byte[32];
+Buffer.BlockCopy(xy,0,x,0,32);Buffer.BlockCopy(xy,32,y,0,32);
+const string message="AppPofo-v1\nsession\n11111111-1111-4111-8111-111111111111\n22222222-2222-4222-8222-222222222222";
+var encoded=deviceKey.Sign(message).Replace('-','+').Replace('_','/');
+var signature=Convert.FromBase64String(encoded+new string('=',(4-encoded.Length%4)%4));
+using var verifier=ECDsa.Create(new ECParameters {Curve=ECCurve.NamedCurves.nistP256,Q=new ECPoint{X=x,Y=y}});
+if(!verifier.VerifyData(Encoding.UTF8.GetBytes(message),signature,HashAlgorithmName.SHA256,DSASignatureFormat.Rfc3279DerSequence))throw new Exception("DER verification failed");
+if(verifier.VerifyData(Encoding.UTF8.GetBytes(message+"changed"),signature,HashAlgorithmName.SHA256,DSASignatureFormat.Rfc3279DerSequence))throw new Exception("Modified proof accepted");
+Console.WriteLine("PASS: ephemeral Windows CNG P-256 public key, SHA-256 DER signature, modified-message rejection. No persisted key created.");

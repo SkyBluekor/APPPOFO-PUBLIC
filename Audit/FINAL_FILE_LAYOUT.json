@@ -1,0 +1,35 @@
+{
+  "preserved": [
+    "All existing runtime C# and original script GUIDs",
+    "Bootstrap scene, other scenes/prefabs, UI PNG 170, spoken guidance WAV 6",
+    "Real YuNet/SFace/native integration and local SQLite profile/face/card functions",
+    "Cloudflare source, migrations, security policies and tests",
+    "Official fixed-source dependency setup scripts and original metadata templates"
+  ],
+  "consolidated": {
+    "removed_duplicate_files": [
+      "tools/restore_reviewed_assets.py",
+      "Audit/COPY_FILES.txt",
+      "Audit/SANITIZE_FILES.txt",
+      "Audit/REVIEW_FILES.txt",
+      "Audit/EXCLUDE_FILES.txt"
+    ],
+    "canonical_file_classification": "Audit/FILE_CLASSIFICATION.csv",
+    "canonical_installation": "tools/setup_dependencies.py and tools/setup_optional_tmp.py",
+    "private_archive_retained": true
+  },
+  "added": [
+    "Actual runtime screenshots in Docs/Images",
+    "Audit/CLONE_REPRODUCIBILITY.json",
+    "tools/create_source_snapshot.py",
+    "tools/create_local_worker_env.py",
+    "Editor-only optional PublicCloneRunValidation.cs"
+  ],
+  "excluded_from_source": [
+    "Installed model/native/TMP sample payloads (official setup available)",
+    "Generated Library, node_modules, logs, build output and local credentials",
+    "All user DB/avatar/actual face/embedding files",
+    "Original .git/history"
+  ],
+  "runtime_feature_removals": []
+}

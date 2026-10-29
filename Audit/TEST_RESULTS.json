@@ -1,0 +1,28 @@
+{
+  "EditMode": {
+    "status": "PASS",
+    "total": 531,
+    "passed": 531,
+    "failed": 0,
+    "skipped": 0,
+    "duration_seconds": 35.2152837,
+    "platform": "Windows Editor, Unity 6000.5.4f1, D3D11, !Manual; original automated assertions retained"
+  },
+  "PlayMode": {
+    "status": "PASS",
+    "total": 53,
+    "passed": 53,
+    "failed": 0,
+    "skipped": 0,
+    "duration_seconds": 22.8477051,
+    "platform": "Windows Editor, Unity 6000.5.4f1, D3D11, !Manual; original automated assertions retained"
+  },
+  "Cloudflare": {
+    "status": "PASS",
+    "total": 85,
+    "passed": 85,
+    "failed": 0,
+    "skipped": 0,
+    "runtime": "Node v24.19.0; synthetic tests and local Miniflare/workerd D1; no production operation"
+  }
+}

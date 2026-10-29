@@ -1,0 +1,650 @@
+fileFormatVersion: 2
+guid: d1d703877018ad74394f1f5289e5c067
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4578633019120604302
+    second: btn_secondary_lavender_0
+  - first:
+      213: 7132246142617377705
+    second: btn_secondary_lavender_1
+  - first:
+      213: 344753205530819816
+    second: btn_secondary_lavender_2
+  - first:
+      213: 1977790092643633931
+    second: btn_secondary_lavender_3
+  - first:
+      213: 6946688810852798945
+    second: btn_secondary_lavender_4
+  - first:
+      213: -3902183147418345282
+    second: btn_secondary_lavender_5
+  - first:
+      213: -6960048768557345212
+    second: btn_secondary_lavender_6
+  - first:
+      213: -6914479969914694807
+    second: btn_secondary_lavender_7
+  - first:
+      213: 5219986577896800695
+    second: btn_secondary_lavender_8
+  - first:
+      213: 7328079157882855920
+    second: btn_secondary_lavender_9
+  - first:
+      213: -771724538768715606
+    second: btn_secondary_lavender_10
+  - first:
+      213: -7891566429349449581
+    second: btn_secondary_lavender_11
+  - first:
+      213: 4198289480983700750
+    second: btn_secondary_lavender_12
+  - first:
+      213: -4897403643991231668
+    second: btn_secondary_lavender_13
+  - first:
+      213: 7947772387382643490
+    second: btn_secondary_lavender_14
+  - first:
+      213: -7057378760029250783
+    second: btn_secondary_lavender_15
+  - first:
+      213: 6139356908689051230
+    second: btn_secondary_lavender_16
+  - first:
+      213: 1197121234637575251
+    second: btn_secondary_lavender_17
+  - first:
+      213: -8346185169619892830
+    second: btn_secondary_lavender_18
+  - first:
+      213: 1493212151088096862
+    second: btn_secondary_lavender_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: btn_secondary_lavender_0
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 18
+        width: 1431
+        height: 849
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e84de85e8729a8f30800000000000000
+      internalID: 4578633019120604302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: btn_secondary_lavender_1
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 96
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9abdb551414daf260800000000000000
+      internalID: 7132246142617377705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: btn_secondary_lavender_2
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 178
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ec77deb63fc8c400800000000000000
+      internalID: 344753205530819816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: btn_secondary_lavender_3
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 120
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0b8f484c95827b10800000000000000
+      internalID: 1977790092643633931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: btn_secondary_lavender_4
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 120
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e1df081ba8976060800000000000000
+      internalID: 6946688810852798945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: btn_secondary_lavender_5
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 112
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb02d912a19a8d9c0800000000000000
+      internalID: -3902183147418345282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: btn_secondary_lavender_6
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 98
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4469eba5580f86f90800000000000000
+      internalID: -6960048768557345212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: btn_secondary_lavender_7
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 126
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9635ea21a15da00a0800000000000000
+      internalID: -6914479969914694807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: btn_secondary_lavender_8
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 114
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b188dbc22e117840800000000000000
+      internalID: 5219986577896800695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: btn_secondary_lavender_9
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 109
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f12d831b2192b560800000000000000
+      internalID: 7328079157882855920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: btn_secondary_lavender_10
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 96
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa01d3aee984a45f0800000000000000
+      internalID: -771724538768715606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: btn_secondary_lavender_11
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 110
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3907a31d4268b7290800000000000000
+      internalID: -7891566429349449581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: btn_secondary_lavender_12
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 96
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e05ea4a1a02534a30800000000000000
+      internalID: 4198289480983700750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: btn_secondary_lavender_13
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 112
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c43f236555de80cb0800000000000000
+      internalID: -4897403643991231668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: btn_secondary_lavender_14
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 111
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22bc99190e82c4e60800000000000000
+      internalID: 7947772387382643490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: btn_secondary_lavender_15
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 114
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12bd11bc8672f0e90800000000000000
+      internalID: -7057378760029250783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: btn_secondary_lavender_16
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 96
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5e40cba490633550800000000000000
+      internalID: 6139356908689051230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: btn_secondary_lavender_17
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 98
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35456a79b670d9010800000000000000
+      internalID: 1197121234637575251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: btn_secondary_lavender_18
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 104
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a54c27eec46c2c80800000000000000
+      internalID: -8346185169619892830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: btn_secondary_lavender_19
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 55
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5627ef3a84f8b410800000000000000
+      internalID: 1493212151088096862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      btn_secondary_lavender_0: 4578633019120604302
+      btn_secondary_lavender_1: 7132246142617377705
+      btn_secondary_lavender_10: -771724538768715606
+      btn_secondary_lavender_11: -7891566429349449581
+      btn_secondary_lavender_12: 4198289480983700750
+      btn_secondary_lavender_13: -4897403643991231668
+      btn_secondary_lavender_14: 7947772387382643490
+      btn_secondary_lavender_15: -7057378760029250783
+      btn_secondary_lavender_16: 6139356908689051230
+      btn_secondary_lavender_17: 1197121234637575251
+      btn_secondary_lavender_18: -8346185169619892830
+      btn_secondary_lavender_19: 1493212151088096862
+      btn_secondary_lavender_2: 344753205530819816
+      btn_secondary_lavender_3: 1977790092643633931
+      btn_secondary_lavender_4: 6946688810852798945
+      btn_secondary_lavender_5: -3902183147418345282
+      btn_secondary_lavender_6: -6960048768557345212
+      btn_secondary_lavender_7: -6914479969914694807
+      btn_secondary_lavender_8: 5219986577896800695
+      btn_secondary_lavender_9: 7328079157882855920
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

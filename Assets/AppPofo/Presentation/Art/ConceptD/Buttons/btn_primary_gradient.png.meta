@@ -1,0 +1,1144 @@
+fileFormatVersion: 2
+guid: 6c75e82a0da543d48af1451c8937a022
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6097107649336475890
+    second: btn_primary_gradient_0
+  - first:
+      213: -182859106220990987
+    second: btn_primary_gradient_1
+  - first:
+      213: -6805603867306414901
+    second: btn_primary_gradient_2
+  - first:
+      213: -419472910295255689
+    second: btn_primary_gradient_3
+  - first:
+      213: 5929051934380586428
+    second: btn_primary_gradient_4
+  - first:
+      213: 7747050693038552076
+    second: btn_primary_gradient_5
+  - first:
+      213: 4541868189402304255
+    second: btn_primary_gradient_6
+  - first:
+      213: -2003573154562965009
+    second: btn_primary_gradient_7
+  - first:
+      213: 4034663341588043590
+    second: btn_primary_gradient_8
+  - first:
+      213: 2974109770680592255
+    second: btn_primary_gradient_9
+  - first:
+      213: -6001546612684973233
+    second: btn_primary_gradient_10
+  - first:
+      213: -6419440974177318224
+    second: btn_primary_gradient_11
+  - first:
+      213: 5137790625962899665
+    second: btn_primary_gradient_12
+  - first:
+      213: -8175743746343850335
+    second: btn_primary_gradient_13
+  - first:
+      213: 7848792276825024041
+    second: btn_primary_gradient_14
+  - first:
+      213: -5320631727702368782
+    second: btn_primary_gradient_15
+  - first:
+      213: 5103274274216851243
+    second: btn_primary_gradient_16
+  - first:
+      213: 475222689836278412
+    second: btn_primary_gradient_17
+  - first:
+      213: 291221830863585857
+    second: btn_primary_gradient_18
+  - first:
+      213: -1084993766508625180
+    second: btn_primary_gradient_19
+  - first:
+      213: -300416724686369196
+    second: btn_primary_gradient_20
+  - first:
+      213: 2765341259241105125
+    second: btn_primary_gradient_21
+  - first:
+      213: 6915747734432992572
+    second: btn_primary_gradient_22
+  - first:
+      213: 474889341077759081
+    second: btn_primary_gradient_23
+  - first:
+      213: 1496863848503712311
+    second: btn_primary_gradient_24
+  - first:
+      213: 2184794418650341067
+    second: btn_primary_gradient_25
+  - first:
+      213: -890131511263723108
+    second: btn_primary_gradient_26
+  - first:
+      213: 438148903427520502
+    second: btn_primary_gradient_27
+  - first:
+      213: 3445718551934305060
+    second: btn_primary_gradient_28
+  - first:
+      213: -8979215693820823319
+    second: btn_primary_gradient_29
+  - first:
+      213: 4431806877142258680
+    second: btn_primary_gradient_30
+  - first:
+      213: 592033153576993153
+    second: btn_primary_gradient_31
+  - first:
+      213: 2193622945937226426
+    second: btn_primary_gradient_32
+  - first:
+      213: -918145489138578273
+    second: btn_primary_gradient_33
+  - first:
+      213: -8598434222313990847
+    second: btn_primary_gradient_34
+  - first:
+      213: 8334723681988288009
+    second: btn_primary_gradient_35
+  - first:
+      213: 3691771184760140364
+    second: btn_primary_gradient_36
+  - first:
+      213: 1694559315238309165
+    second: btn_primary_gradient_37
+  - first:
+      213: -3742901706488514851
+    second: btn_primary_gradient_38
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: btn_primary_gradient_0
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 646
+        width: 162
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0f7bf395e8b26ba0800000000000000
+      internalID: -6097107649336475890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: btn_primary_gradient_1
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 646
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fd90c99c9a567df0800000000000000
+      internalID: -182859106220990987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: btn_primary_gradient_2
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 645
+        width: 58
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcc2d2f1753ad81a0800000000000000
+      internalID: -6805603867306414901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: btn_primary_gradient_3
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 659
+        width: 55
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 775b3fc4c9bbd2af0800000000000000
+      internalID: -419472910295255689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: btn_primary_gradient_4
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 630
+        width: 158
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb5f8932259384250800000000000000
+      internalID: 5929051934380586428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: btn_primary_gradient_5
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 697
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c04b1874f8d038b60800000000000000
+      internalID: 7747050693038552076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: btn_primary_gradient_6
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 626
+        width: 176
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffe88fded05f70f30800000000000000
+      internalID: 4541868189402304255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: btn_primary_gradient_7
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 626
+        width: 422
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe104c0d4d0e134e0800000000000000
+      internalID: -2003573154562965009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: btn_primary_gradient_8
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 675
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64755afbee00ef730800000000000000
+      internalID: 4034663341588043590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: btn_primary_gradient_9
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 648
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f776f643419264920800000000000000
+      internalID: 2974109770680592255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: btn_primary_gradient_10
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 658
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4b96ff372936bca0800000000000000
+      internalID: -6001546612684973233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: btn_primary_gradient_11
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 642
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bac295127099e6a0800000000000000
+      internalID: -6419440974177318224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: btn_primary_gradient_12
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 651
+        width: 112
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d8b9d66a591d4740800000000000000
+      internalID: 5137790625962899665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: btn_primary_gradient_13
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 665
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aead80316ce98e80800000000000000
+      internalID: -8175743746343850335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: btn_primary_gradient_14
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 675
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9262cf7bdf28cec60800000000000000
+      internalID: 7848792276825024041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: btn_primary_gradient_15
+      rect:
+        serializedVersion: 2
+        x: 1621
+        y: 638
+        width: 57
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fd90a132a15926b0800000000000000
+      internalID: -5320631727702368782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: btn_primary_gradient_16
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 667
+        width: 33
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b27b5120ae872d640800000000000000
+      internalID: 5103274274216851243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: btn_primary_gradient_17
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 671
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c82a5e0c484589600800000000000000
+      internalID: 475222689836278412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: btn_primary_gradient_18
+      rect:
+        serializedVersion: 2
+        x: 1713
+        y: 634
+        width: 60
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 142867356b0aa0400800000000000000
+      internalID: 291221830863585857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: btn_primary_gradient_19
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 640
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e28dbbfae351f0f0800000000000000
+      internalID: -1084993766508625180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: btn_primary_gradient_20
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 636
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45e8b70a494b4dbf0800000000000000
+      internalID: -300416724686369196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: btn_primary_gradient_21
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 610
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e62ccf4937706620800000000000000
+      internalID: 2765341259241105125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: btn_primary_gradient_22
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 632
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3d471b5ceba9ff50800000000000000
+      internalID: 6915747734432992572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: btn_primary_gradient_23
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 638
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9642f82f655279600800000000000000
+      internalID: 474889341077759081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: btn_primary_gradient_24
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 643
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73a103f4dbde5c410800000000000000
+      internalID: 1496863848503712311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: btn_primary_gradient_25
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 626
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bced8eeb2f2f15e10800000000000000
+      internalID: 2184794418650341067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: btn_primary_gradient_26
+      rect:
+        serializedVersion: 2
+        x: 1770
+        y: 632
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c918ebb4b1e95a3f0800000000000000
+      internalID: -890131511263723108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: btn_primary_gradient_27
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 23
+        width: 2127
+        height: 607
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f736833b1e941600800000000000000
+      internalID: 438148903427520502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: btn_primary_gradient_28
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 628
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 423840c44c6a1df20800000000000000
+      internalID: 3445718551934305060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: btn_primary_gradient_29
+      rect:
+        serializedVersion: 2
+        x: 1697
+        y: 626
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e8723086ea636380800000000000000
+      internalID: -8979215693820823319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: btn_primary_gradient_30
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 608
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f39231cfd0f08d30800000000000000
+      internalID: 4431806877142258680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: btn_primary_gradient_31
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 95
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18106363403573800800000000000000
+      internalID: 592033153576993153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: btn_primary_gradient_32
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 101
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abafbbf6270517e10800000000000000
+      internalID: 2193622945937226426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: btn_primary_gradient_33
+      rect:
+        serializedVersion: 2
+        x: 1339
+        y: 96
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9c84cbca871243f0800000000000000
+      internalID: -918145489138578273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: btn_primary_gradient_34
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 81
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 145996a91a93ca880800000000000000
+      internalID: -8598434222313990847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: btn_primary_gradient_35
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 79
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90e92fd8703eaa370800000000000000
+      internalID: 8334723681988288009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: btn_primary_gradient_36
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 79
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c42b6ab255ecb3330800000000000000
+      internalID: 3691771184760140364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: btn_primary_gradient_37
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 71
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2dcb9318b8448710800000000000000
+      internalID: 1694559315238309165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: btn_primary_gradient_38
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 77
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd67c8b8aba8e0cc0800000000000000
+      internalID: -3742901706488514851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      btn_primary_gradient_0: -6097107649336475890
+      btn_primary_gradient_1: -182859106220990987
+      btn_primary_gradient_10: -6001546612684973233
+      btn_primary_gradient_11: -6419440974177318224
+      btn_primary_gradient_12: 5137790625962899665
+      btn_primary_gradient_13: -8175743746343850335
+      btn_primary_gradient_14: 7848792276825024041
+      btn_primary_gradient_15: -5320631727702368782
+      btn_primary_gradient_16: 5103274274216851243
+      btn_primary_gradient_17: 475222689836278412
+      btn_primary_gradient_18: 291221830863585857
+      btn_primary_gradient_19: -1084993766508625180
+      btn_primary_gradient_2: -6805603867306414901
+      btn_primary_gradient_20: -300416724686369196
+      btn_primary_gradient_21: 2765341259241105125
+      btn_primary_gradient_22: 6915747734432992572
+      btn_primary_gradient_23: 474889341077759081
+      btn_primary_gradient_24: 1496863848503712311
+      btn_primary_gradient_25: 2184794418650341067
+      btn_primary_gradient_26: -890131511263723108
+      btn_primary_gradient_27: 438148903427520502
+      btn_primary_gradient_28: 3445718551934305060
+      btn_primary_gradient_29: -8979215693820823319
+      btn_primary_gradient_3: -419472910295255689
+      btn_primary_gradient_30: 4431806877142258680
+      btn_primary_gradient_31: 592033153576993153
+      btn_primary_gradient_32: 2193622945937226426
+      btn_primary_gradient_33: -918145489138578273
+      btn_primary_gradient_34: -8598434222313990847
+      btn_primary_gradient_35: 8334723681988288009
+      btn_primary_gradient_36: 3691771184760140364
+      btn_primary_gradient_37: 1694559315238309165
+      btn_primary_gradient_38: -3742901706488514851
+      btn_primary_gradient_4: 5929051934380586428
+      btn_primary_gradient_5: 7747050693038552076
+      btn_primary_gradient_6: 4541868189402304255
+      btn_primary_gradient_7: -2003573154562965009
+      btn_primary_gradient_8: 4034663341588043590
+      btn_primary_gradient_9: 2974109770680592255
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

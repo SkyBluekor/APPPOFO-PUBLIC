@@ -1,0 +1,16 @@
+{
+  "name": "AppPofo.PublicValidation.Editor",
+  "references": [
+    "AppPofo.presentation",
+    "AppPofo.domain",
+    "AppPofo.Application",
+    "AppPofo.Infrastructure",
+    "OpenCvSharp",
+    "Unity.InferenceEngine",
+    "Unity.ugui"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "autoReferenced": false
+}

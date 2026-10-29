@@ -1,0 +1,61 @@
+{
+  "schema": 1,
+  "source_snapshot_only": true,
+  "excluded_local_install_paths": [
+    "Assets/AppPofo/Models/FaceRecognition/face_recognition_sface_2021dec.onnx",
+    "Assets/AppPofo/Models/FaceRecognition/face_recognition_sface_2021dec.onnx.meta",
+    "Assets/TextMesh Pro/Resources/Sprite Assets.meta",
+    "Assets/TextMesh Pro/Resources/Sprite Assets/EmojiOne.asset",
+    "Assets/TextMesh Pro/Resources/Sprite Assets/EmojiOne.asset.meta",
+    "Assets/TextMesh Pro/Sprites.meta",
+    "Assets/TextMesh Pro/Sprites/EmojiOne Attribution.txt",
+    "Assets/TextMesh Pro/Sprites/EmojiOne Attribution.txt.meta",
+    "Assets/TextMesh Pro/Sprites/EmojiOne.json",
+    "Assets/TextMesh Pro/Sprites/EmojiOne.json.meta",
+    "Assets/TextMesh Pro/Sprites/EmojiOne.png",
+    "Assets/TextMesh Pro/Sprites/EmojiOne.png.meta",
+    "Packages/com.opencvplus.unity/Runtime/Plugins/Android/arm64-v8a/libOpenCvSharpExtern.so",
+    "Packages/com.opencvplus.unity/Runtime/Plugins/Android/arm64-v8a/libOpenCvSharpExtern.so.meta",
+    "Packages/com.opencvplus.unity/Runtime/Plugins/Linux/x86_64/libOpenCvSharpExtern.so",
+    "Packages/com.opencvplus.unity/Runtime/Plugins/Linux/x86_64/libOpenCvSharpExtern.so.meta",
+    "Packages/com.opencvplus.unity/Runtime/Plugins/Windows/x86_64/OpenCvSharpExtern.dll",
+    "Packages/com.opencvplus.unity/Runtime/Plugins/Windows/x86_64/OpenCvSharpExtern.dll.meta",
+    "Packages/com.opencvplus.unity/Runtime/Plugins/iOS/libOpenCvSharpExtern.a",
+    "Packages/com.opencvplus.unity/Runtime/Plugins/iOS/libOpenCvSharpExtern.a.meta",
+    "Packages/com.opencvplus.unity/Runtime/Plugins/macOS/arm64/OpenCvSharpExtern.bundle.meta",
+    "Packages/com.opencvplus.unity/Runtime/Plugins/macOS/arm64/OpenCvSharpExtern.bundle/Contents/Info.plist",
+    "Packages/com.opencvplus.unity/Runtime/Plugins/macOS/arm64/OpenCvSharpExtern.bundle/Contents/Info.plist.meta",
+    "Packages/com.opencvplus.unity/Runtime/Plugins/macOS/arm64/OpenCvSharpExtern.bundle/Contents/MacOS/OpenCvSharpExtern",
+    "Packages/com.opencvplus.unity/Runtime/Plugins/macOS/arm64/OpenCvSharpExtern.bundle/Contents/MacOS/OpenCvSharpExtern.meta"
+  ],
+  "excluded_generated_directories": [
+    "Library",
+    "Temp",
+    "Obj",
+    "obj",
+    "Logs",
+    "UserSettings",
+    "node_modules",
+    ".wrangler",
+    ".vs",
+    ".vscode",
+    ".utmp",
+    "ValidationResults",
+    "__pycache__",
+    ".git"
+  ],
+  "excluded_generated_prefixes": [
+    "Audit/Runtime/"
+  ],
+  "excluded_generated_extensions": [
+    ".csproj",
+    ".sln",
+    ".slnx"
+  ],
+  "note": "Installed dependencies remain in the working candidate so real inference works. They are excluded from Git and the public source manifest. Never delete them merely to make a check green.",
+  "excluded_local_install_prefixes": [
+    "Packages/com.opencvplus.unity/Runtime/Plugins/macOS/arm64/OpenCvSharpExtern.bundle/",
+    "Assets/TextMesh Pro/Sprites/",
+    "Assets/TextMesh Pro/Resources/Sprite Assets/"
+  ]
+}

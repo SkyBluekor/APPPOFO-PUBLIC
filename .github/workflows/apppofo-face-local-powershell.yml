@@ -1,0 +1,83 @@
+name: AppPoFo Local Face Setup PowerShell Check
+
+on:
+  push:
+    paths:
+      - "cloudflare/apppofo-api/tools/start_face_local.ps1"
+      - ".github/workflows/apppofo-face-local-powershell.yml"
+  pull_request:
+    paths:
+      - "cloudflare/apppofo-api/tools/start_face_local.ps1"
+      - ".github/workflows/apppofo-face-local-powershell.yml"
+
+permissions:
+  contents: read
+
+jobs:
+  setup-smoke:
+    runs-on: windows-latest
+    defaults:
+      run:
+        working-directory: cloudflare/apppofo-api
+    steps:
+      - uses: actions/checkout@v4
+      - name: Verify existing and missing local vars safely
+        shell: pwsh
+        run: |
+          $ErrorActionPreference = 'Stop'
+          $varsPath = Join-Path (Get-Location).Path '.dev.vars'
+          $uuid = 'd8c9c066-627c-42f9-bb39-6e521a74dde3'
+          $existingToken = 'synthetic-local-token-keep-exact-value-0123456789012345'
+          try {
+            # Simulate the real user error: existing .dev.vars lacks face secret.
+            Set-Content -LiteralPath $varsPath -Encoding ASCII -Value @(
+              "APPPOFO_API_TOKEN=$existingToken"
+              'MY_UNRELATED_SETTING=leave-unchanged'
+            )
+            .\tools\start_face_local.ps1 -CloudProfileId $uuid -SettingsOnly
+            $after = [System.IO.File]::ReadAllText($varsPath)
+            if (!$after.Contains("APPPOFO_API_TOKEN=$existingToken")) { throw 'Existing admin token changed.' }
+            if (!$after.Contains('MY_UNRELATED_SETTING=leave-unchanged')) { throw 'Unrelated setting lost.' }
+            foreach ($name in @('APPPOFO_FACE_KEY_V1','APPPOFO_FACE_LOCAL_TEST_MODE',
+                                  'APPPOFO_FACE_POLICY_VERSION')) {
+              if ($after -notmatch "(?m)^$name=.+\r?$") { throw "Missing new setting $name" }
+            }
+            if ($after -notmatch '(?m)^APPPOFO_FACE_KEY_V1=([A-Za-z0-9_-]{43})\r?$') {
+              throw 'Generated face key has wrong encoding/length.'
+            }
+            # A second invocation must be byte-for-byte idempotent.
+            .\tools\start_face_local.ps1 -CloudProfileId $uuid -SettingsOnly
+            if ([System.IO.File]::ReadAllText($varsPath) -cne $after) {
+              throw 'Existing settings changed during second invocation.'
+            }
+            # S5-09-B: enabling local scan is explicit, additive, repeatable.
+            .\tools\start_face_local.ps1 -CloudProfileId $uuid -SettingsOnly -EnableFaceMatchLocalTest
+            $withScan = [System.IO.File]::ReadAllText($varsPath)
+            foreach ($name in @('APPPOFO_FACE_MATCH_LOCAL_TEST_MODE',
+                                'APPPOFO_FACE_SCAN_POLICY_VERSION',
+                                'APPPOFO_FACE_MATCH_THRESHOLD_TEST',
+                                'APPPOFO_FACE_MATCH_MARGIN_TEST')) {
+              if ($withScan -notmatch "(?m)^$name=.+\r?$") { throw "Missing local scanner setting $name" }
+            }
+            if (!$withScan.Contains("APPPOFO_API_TOKEN=$existingToken")) {
+              throw 'Enabling local scanning changed existing administrator token.'
+            }
+            .\tools\start_face_local.ps1 -CloudProfileId $uuid -SettingsOnly -EnableFaceMatchLocalTest
+            if ([System.IO.File]::ReadAllText($varsPath) -cne $withScan) {
+              throw 'Local scanner configuration is not idempotent.'
+            }
+            # Also check the clean first-run path, without database activity.
+            Remove-Item -LiteralPath $varsPath -Force
+            .\tools\start_face_local.ps1 -CloudProfileId $uuid -SettingsOnly
+            $fresh = [System.IO.File]::ReadAllText($varsPath)
+            foreach ($name in @('APPPOFO_API_TOKEN','APPPOFO_FACE_KEY_V1',
+                                  'APPPOFO_FACE_LOCAL_TEST_MODE','APPPOFO_FACE_POLICY_VERSION')) {
+              if ($fresh -notmatch "(?m)^$name=.+\r?$") { throw "Missing fresh setting $name" }
+            }
+            Write-Host 'Windows PowerShell settings smoke PASS'
+          }
+          finally {
+            if (Test-Path -LiteralPath $varsPath) {
+              Remove-Item -LiteralPath $varsPath -Force
+            }
+          }

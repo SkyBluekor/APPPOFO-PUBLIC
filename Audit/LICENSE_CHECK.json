@@ -1,0 +1,28 @@
+{
+  "notice_files_present": "PASS",
+  "files": [
+    "LiberationSans-OFL-1.1.txt",
+    "OpenCV-4.11-Apache-2.0.txt",
+    "OpenCV-4.11-NOTICE.txt",
+    "OpenCvSharp-Apache-2.0.txt",
+    "Pretendard-Full-OFL-1.1.txt",
+    "Pretendard-OFL-1.1.txt",
+    "SFace-Apache-2.0.txt",
+    "SQLite-net-MIT.txt",
+    "SQLite-net-Unity-MIT.txt",
+    "SQLite3-Multiple-Ciphers-MIT.txt",
+    "UI-Logo-Attribution.md",
+    "Unity-Companion-License-v1.4.txt",
+    "Unity-uGUI-NOTICE.md",
+    "YuNet-MIT.txt",
+    "eSpeak-NG-GPL-3.0.txt"
+  ],
+  "ui_output_source": "CONFIRMED by direct user statement and official OpenAI output-rights terms",
+  "ui_remaining_review_count": 20,
+  "original_clova": "EXCLUDED; confirmed free plan and software-embedding prohibition",
+  "new_guidance": "Newly authored formant speech, engine not bundled, output/licensing basis and versions recorded",
+  "redistribution_approval": "REVIEW for listed logo variants and directly bundled external binaries/models/sample artwork",
+  "project_license": "Not selected",
+  "source_publication_owner_authorized": true,
+  "publication_decision": "Audit/PUBLICATION_DECISION.json"
+}

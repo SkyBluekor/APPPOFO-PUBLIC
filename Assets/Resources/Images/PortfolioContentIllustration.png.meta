@@ -1,0 +1,546 @@
+fileFormatVersion: 2
+guid: cbd98703042977c4aaeb4c39c6ce35be
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6363487716093519694
+    second: PortfolioContentIllustration_0
+  - first:
+      213: 5905123544707490173
+    second: PortfolioContentIllustration_1
+  - first:
+      213: -8214764112724367988
+    second: PortfolioContentIllustration_2
+  - first:
+      213: 2366376481794948948
+    second: PortfolioContentIllustration_3
+  - first:
+      213: -5816196433986646461
+    second: PortfolioContentIllustration_4
+  - first:
+      213: 3853929349819077542
+    second: PortfolioContentIllustration_5
+  - first:
+      213: -8838420435995002979
+    second: PortfolioContentIllustration_6
+  - first:
+      213: 7739751846216177470
+    second: PortfolioContentIllustration_7
+  - first:
+      213: 2157054250453613691
+    second: PortfolioContentIllustration_8
+  - first:
+      213: 751600783754034548
+    second: PortfolioContentIllustration_9
+  - first:
+      213: 4289238619631247586
+    second: PortfolioContentIllustration_10
+  - first:
+      213: -363124989779165979
+    second: PortfolioContentIllustration_11
+  - first:
+      213: -8329197906175691043
+    second: PortfolioContentIllustration_12
+  - first:
+      213: 1518294980602392204
+    second: PortfolioContentIllustration_13
+  - first:
+      213: 2145655800564828466
+    second: PortfolioContentIllustration_14
+  - first:
+      213: 2624007573851995265
+    second: PortfolioContentIllustration_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PortfolioContentIllustration_0
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 1191
+        width: 41
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e47e052dc56af4850800000000000000
+      internalID: 6363487716093519694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PortfolioContentIllustration_1
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 1179
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d71e515c39633f150800000000000000
+      internalID: 5905123544707490173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PortfolioContentIllustration_2
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 996
+        width: 137
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c85ef6b209b4ffd80800000000000000
+      internalID: -8214764112724367988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PortfolioContentIllustration_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 99
+        width: 1084
+        height: 1083
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45ff9326fde07d020800000000000000
+      internalID: 2366376481794948948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PortfolioContentIllustration_4
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 1156
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34e0558a828b84fa0800000000000000
+      internalID: -5816196433986646461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PortfolioContentIllustration_5
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 1162
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a31b6d1358eb7530800000000000000
+      internalID: 3853929349819077542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PortfolioContentIllustration_6
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 1154
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d97f6f0017f975580800000000000000
+      internalID: -8838420435995002979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PortfolioContentIllustration_7
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 986
+        width: 118
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3793631c4f196b60800000000000000
+      internalID: 7739751846216177470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PortfolioContentIllustration_8
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 993
+        width: 130
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7cb88789656fed10800000000000000
+      internalID: 2157054250453613691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PortfolioContentIllustration_9
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 988
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47d70904ee83e6a00800000000000000
+      internalID: 751600783754034548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PortfolioContentIllustration_10
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 970
+        width: 6
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e0e1089ccf668b30800000000000000
+      internalID: 4289238619631247586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PortfolioContentIllustration_11
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 793
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ec3527eebbe5faf0800000000000000
+      internalID: -363124989779165979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PortfolioContentIllustration_12
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 624
+        width: 94
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd6787262aeb86c80800000000000000
+      internalID: -8329197906175691043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PortfolioContentIllustration_13
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 628
+        width: 103
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8e60179d31121510800000000000000
+      internalID: 1518294980602392204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PortfolioContentIllustration_14
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 628
+        width: 47
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2394cea1596e6cd10800000000000000
+      internalID: 2145655800564828466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PortfolioContentIllustration_15
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 401
+        width: 150
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18cf16f5cf85a6420800000000000000
+      internalID: 2624007573851995265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PortfolioContentIllustration_0: 6363487716093519694
+      PortfolioContentIllustration_1: 5905123544707490173
+      PortfolioContentIllustration_10: 4289238619631247586
+      PortfolioContentIllustration_11: -363124989779165979
+      PortfolioContentIllustration_12: -8329197906175691043
+      PortfolioContentIllustration_13: 1518294980602392204
+      PortfolioContentIllustration_14: 2145655800564828466
+      PortfolioContentIllustration_15: 2624007573851995265
+      PortfolioContentIllustration_2: -8214764112724367988
+      PortfolioContentIllustration_3: 2366376481794948948
+      PortfolioContentIllustration_4: -5816196433986646461
+      PortfolioContentIllustration_5: 3853929349819077542
+      PortfolioContentIllustration_6: -8838420435995002979
+      PortfolioContentIllustration_7: 7739751846216177470
+      PortfolioContentIllustration_8: 2157054250453613691
+      PortfolioContentIllustration_9: 751600783754034548
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

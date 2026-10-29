@@ -1,0 +1,34 @@
+{
+  "fixture": "Docs/TestFixtures/synthetic-face.png",
+  "fixtureProvenance": "Newly generated fictional adult; OpenAI ImageGen; no real identity or original private photograph.",
+  "sfaceGuid": "bf55204260a4ac84d927fe4c1d8dbaa4",
+  "yunetGuid": "b50bd7ca6efb52c44a98482462ef9421",
+  "nativeVersion": "4.11.0",
+  "results": [
+    {
+      "backend": "CPU",
+      "status": "PASS",
+      "detectedFaces": 1,
+      "faceConfidence": 0.9531518816947937,
+      "embeddingDimensions": 128,
+      "embeddingNorm": 1.0000001303806576,
+      "repeatCosine": 1.000000238418579,
+      "adjustedImageCosine": 0.9757305383682251,
+      "asyncCosine": 1.000000238418579,
+      "detail": "Real YuNet -> camera orientation/crop -> native five-landmark affine alignment -> real SFace sync, perturbed input and layer-budget async -> normalized comparison. No mocks or preprocessing-only diagnostic bypass."
+    },
+    {
+      "backend": "GPUCompute",
+      "status": "PASS",
+      "detectedFaces": 1,
+      "faceConfidence": 0.9531518816947937,
+      "embeddingDimensions": 128,
+      "embeddingNorm": 1.0000001261958935,
+      "repeatCosine": 1.0000003576278687,
+      "adjustedImageCosine": 0.9757305979728699,
+      "asyncCosine": 1.0000003576278687,
+      "detail": "Real YuNet -> camera orientation/crop -> native five-landmark affine alignment -> real SFace sync, perturbed input and layer-budget async -> normalized comparison. No mocks or preprocessing-only diagnostic bypass."
+    }
+  ],
+  "limitations": "One fictional synthetic identity; validates execution and same/perturbed-image comparison, not population accuracy, FAR/FRR, liveness or physical Android/device camera performance."
+}

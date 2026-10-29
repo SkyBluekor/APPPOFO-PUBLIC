@@ -1,0 +1,169 @@
+{
+  "sources": "Official upstream fixed-commit HTTPS; no original private binary copied",
+  "opencvplus_commit": "071116d63cde332e5d0d98728d6e9d0747a1a1b9",
+  "opencv_zoo_commit": "48b10fa505aeb51fbd127fc60a5c660040e823b7",
+  "assets": [
+    {
+      "path": "Assets/AppPofo/Models/FaceRecognition/face_recognition_sface_2021dec.onnx",
+      "sha256": "0ba9fbfa01b5270c96627c4ef784da859931e02f04419c829e83484087c34e79",
+      "bytes": 38696353,
+      "url": "https://media.githubusercontent.com/media/opencv/opencv_zoo/48b10fa505aeb51fbd127fc60a5c660040e823b7/models/face_recognition_sface/face_recognition_sface_2021dec.onnx",
+      "platform": "models",
+      "upstream_license": "Apache-2.0",
+      "publication": "INSTALL_ONLY; upstream exact-weight provenance review remains",
+      "local_status": "INSTALLED_AND_SHA256_VERIFIED",
+      "redistribution_status": "EXCLUDED_FROM_PUBLIC_SOURCE_SNAPSHOT"
+    },
+    {
+      "path": "Packages/com.opencvplus.unity/Runtime/Plugins/Android/arm64-v8a/libOpenCvSharpExtern.so",
+      "sha256": "cb8ab902a31bac2141da3704df7917ebb3a7d31885782dc94d0852d319770994",
+      "bytes": 32158376,
+      "url": "https://raw.githubusercontent.com/neon-izm/OpenCV-plus-Unity/071116d63cde332e5d0d98728d6e9d0747a1a1b9/Unity/OpenCV%2BUnity/Runtime/Plugins/Android/arm64-v8a/libOpenCvSharpExtern.so",
+      "platform": "Android",
+      "upstream_license": "Apache-2.0 declared by package; transitive native notices require review",
+      "publication": "INSTALL_ONLY; no native binaries in public source snapshot",
+      "local_status": "INSTALLED_AND_SHA256_VERIFIED",
+      "redistribution_status": "EXCLUDED_FROM_PUBLIC_SOURCE_SNAPSHOT",
+      "embedded_build_features": [
+        "Non-free algorithms:         NO",
+        "JPEG:                        build-libjpeg-turbo (ver 3.0.3-70)",
+        "WEBP:                        build (ver decoder: 0x0209, encoder: 0x020f, demux: 0x0107)",
+        "PNG:                         build (ver 1.6.43)",
+        "TIFF:                        build (ver 42 - 4.6.0)",
+        "JPEG 2000:                   build (ver 2.5.0)",
+        "Parallel framework:            pthreads"
+      ],
+      "native_execution": "NOT_VERIFIED_ON_TARGET_PLATFORM; hash and embedded build text inspected only"
+    },
+    {
+      "path": "Packages/com.opencvplus.unity/Runtime/Plugins/Linux/x86_64/libOpenCvSharpExtern.so",
+      "sha256": "bef2bfc83b85fad274e1148e03e30002965eec966e6af2cd0d89afc2ecb27560",
+      "bytes": 69716192,
+      "url": "https://raw.githubusercontent.com/neon-izm/OpenCV-plus-Unity/071116d63cde332e5d0d98728d6e9d0747a1a1b9/Unity/OpenCV%2BUnity/Runtime/Plugins/Linux/x86_64/libOpenCvSharpExtern.so",
+      "platform": "Linux",
+      "upstream_license": "Apache-2.0 declared by package; transitive native notices require review",
+      "publication": "INSTALL_ONLY; no native binaries in public source snapshot",
+      "local_status": "INSTALLED_AND_SHA256_VERIFIED",
+      "redistribution_status": "EXCLUDED_FROM_PUBLIC_SOURCE_SNAPSHOT",
+      "embedded_build_features": [
+        "Non-free algorithms:         NO",
+        "JPEG:                        build-libjpeg-turbo (ver 3.0.3-70)",
+        "WEBP:                        build (ver decoder: 0x0209, encoder: 0x020f, demux: 0x0107)",
+        "PNG:                         build (ver 1.6.43)",
+        "TIFF:                        build (ver 42 - 4.6.0)",
+        "JPEG 2000:                   build (ver 2.5.0)",
+        "Parallel framework:            pthreads",
+        "Intel IPP:                   2021.12.0 [2021.12.0]",
+        "Intel IPP IW:                sources (2021.12.0)",
+        "Eigen:                       YES (ver 3.4.0)"
+      ],
+      "native_execution": "NOT_VERIFIED_ON_TARGET_PLATFORM; hash and embedded build text inspected only"
+    },
+    {
+      "path": "Packages/com.opencvplus.unity/Runtime/Plugins/Windows/x86_64/OpenCvSharpExtern.dll",
+      "sha256": "2c4977787db53a2346fc0fd3420738d67d4580f5beb2ccf9fe8b9fac3c1f5743",
+      "bytes": 52317184,
+      "url": "https://raw.githubusercontent.com/neon-izm/OpenCV-plus-Unity/071116d63cde332e5d0d98728d6e9d0747a1a1b9/Unity/OpenCV%2BUnity/Runtime/Plugins/Windows/x86_64/OpenCvSharpExtern.dll",
+      "platform": "Windows",
+      "upstream_license": "Apache-2.0 declared by package; transitive native notices require review",
+      "publication": "INSTALL_ONLY; no native binaries in public source snapshot",
+      "local_status": "INSTALLED_AND_SHA256_VERIFIED",
+      "redistribution_status": "EXCLUDED_FROM_PUBLIC_SOURCE_SNAPSHOT",
+      "embedded_build_features": [
+        "Non-free algorithms:         NO",
+        "JPEG:                        build-libjpeg-turbo (ver 3.0.3-70)",
+        "WEBP:                        build (ver decoder: 0x0209, encoder: 0x020f, demux: 0x0107)",
+        "PNG:                         build (ver 1.6.43)",
+        "TIFF:                        build (ver 42 - 4.6.0)",
+        "JPEG 2000:                   build (ver 2.5.0)",
+        "Parallel framework:            Concurrency",
+        "Intel IPP:                   2021.12.0 [2021.12.0]",
+        "Intel IPP IW:                sources (2021.12.0)",
+        "Eigen:                       NO"
+      ],
+      "native_execution": "PASS: Windows CPU/GPU pipeline"
+    },
+    {
+      "path": "Packages/com.opencvplus.unity/Runtime/Plugins/iOS/libOpenCvSharpExtern.a",
+      "sha256": "9dac48a7df222f4f35fa190b2edb49f23b6a6b8a0116dbe67c2fd7eba8d54164",
+      "bytes": 54183920,
+      "url": "https://raw.githubusercontent.com/neon-izm/OpenCV-plus-Unity/071116d63cde332e5d0d98728d6e9d0747a1a1b9/Unity/OpenCV%2BUnity/Runtime/Plugins/iOS/libOpenCvSharpExtern.a",
+      "platform": "iOS",
+      "upstream_license": "Apache-2.0 declared by package; transitive native notices require review",
+      "publication": "INSTALL_ONLY; no native binaries in public source snapshot",
+      "local_status": "INSTALLED_AND_SHA256_VERIFIED",
+      "redistribution_status": "EXCLUDED_FROM_PUBLIC_SOURCE_SNAPSHOT",
+      "embedded_build_features": [
+        "Non-free algorithms:         NO",
+        "JPEG:                        build-libjpeg-turbo (ver 3.0.3-70)",
+        "WEBP:                        build (ver decoder: 0x0209, encoder: 0x020f, demux: 0x0107)",
+        "PNG:                         build (ver 1.6.43)",
+        "Parallel framework:            GCD"
+      ],
+      "native_execution": "NOT_VERIFIED_ON_TARGET_PLATFORM; hash and embedded build text inspected only"
+    },
+    {
+      "path": "Packages/com.opencvplus.unity/Runtime/Plugins/macOS/arm64/OpenCvSharpExtern.bundle/Contents/Info.plist",
+      "sha256": "e8ef0d1d5ac54039fc37ddb659b6d7af67f6159ed753b86a4d39a835dc889ade",
+      "bytes": 559,
+      "url": "https://raw.githubusercontent.com/neon-izm/OpenCV-plus-Unity/071116d63cde332e5d0d98728d6e9d0747a1a1b9/Unity/OpenCV%2BUnity/Runtime/Plugins/macOS/arm64/OpenCvSharpExtern.bundle/Contents/Info.plist",
+      "platform": "macOS",
+      "upstream_license": "Apache-2.0 declared by package; transitive native notices require review",
+      "publication": "INSTALL_ONLY; no native binaries in public source snapshot",
+      "original_crlf_sha256": "4d6f324d0a5ba793ea72bf7a2a7de2a74d80824431822038fda204dcfe748c96",
+      "normalization": "Upstream LF; original working copy CRLF. Text is otherwise identical.",
+      "local_status": "INSTALLED_AND_SHA256_VERIFIED",
+      "redistribution_status": "EXCLUDED_FROM_PUBLIC_SOURCE_SNAPSHOT"
+    },
+    {
+      "path": "Packages/com.opencvplus.unity/Runtime/Plugins/macOS/arm64/OpenCvSharpExtern.bundle/Contents/MacOS/OpenCvSharpExtern",
+      "sha256": "74418206c39234b3d7d132263262ace2afee86169fc6915ca0ed585b28c355a1",
+      "bytes": 26927128,
+      "url": "https://raw.githubusercontent.com/neon-izm/OpenCV-plus-Unity/071116d63cde332e5d0d98728d6e9d0747a1a1b9/Unity/OpenCV%2BUnity/Runtime/Plugins/macOS/arm64/OpenCvSharpExtern.bundle/Contents/MacOS/OpenCvSharpExtern",
+      "platform": "macOS",
+      "upstream_license": "Apache-2.0 declared by package; transitive native notices require review",
+      "publication": "INSTALL_ONLY; no native binaries in public source snapshot",
+      "local_status": "INSTALLED_AND_SHA256_VERIFIED",
+      "redistribution_status": "EXCLUDED_FROM_PUBLIC_SOURCE_SNAPSHOT",
+      "embedded_build_features": [
+        "Non-free algorithms:         NO",
+        "JPEG:                        build-libjpeg-turbo (ver 3.0.3-70)",
+        "WEBP:                        build (ver decoder: 0x0209, encoder: 0x020f, demux: 0x0107)",
+        "PNG:                         libpng (ver 1.6.43)",
+        "TIFF:                        libtiff (ver 42 / 4.6.0)",
+        "JPEG 2000:                   build (ver 2.5.0)",
+        "Parallel framework:            GCD",
+        "Eigen:                       YES (ver ..)"
+      ],
+      "native_execution": "NOT_VERIFIED_ON_TARGET_PLATFORM; hash and embedded build text inspected only"
+    }
+  ],
+  "idempotent_installer_rerun": "PASS after Unity import; no download or payload changes needed",
+  "tmp_sample": {
+    "source": "https://packages.unity.com/com.unity.textmeshpro/-/com.unity.textmeshpro-3.0.6.tgz",
+    "package_sha256": "1ce172027b906a30be33cefe7b2ee46e1c8d35f729359b8b9785fc120d57b637",
+    "assets": [
+      {
+        "path": "Assets/TextMesh Pro/Sprites/EmojiOne Attribution.txt",
+        "guid": "381dcb09d5029d14897e55f98031fca5",
+        "sha256": "095907d2631301d08dbff9388fc0c278904fd86e18ba76bb0d401a790ade8f83"
+      },
+      {
+        "path": "Assets/TextMesh Pro/Sprites/EmojiOne.json",
+        "guid": "8f05276190cf498a8153f6cbe761d4e6",
+        "sha256": "fa35c4a1b7cfc12e872bcba7d0d20702077a5478472b87d619b2c72bf5bb48d0"
+      },
+      {
+        "path": "Assets/TextMesh Pro/Resources/Sprite Assets/EmojiOne.asset",
+        "guid": "c41005c129ba4d66911b75229fd70b45",
+        "sha256": "155fff99f467baa93dd2d0886df466bd242cd5e3c8c60c9d43e9cdad269f7f54"
+      },
+      {
+        "path": "Assets/TextMesh Pro/Sprites/EmojiOne.png",
+        "guid": "dffef66376be4fa480fb02b19edbe903",
+        "sha256": "a87b965a701de3dc31d7401e542b1fc946587f912c51d7a26e46ade9f098bd1a"
+      }
+    ],
+    "redistribution": "REVIEW; not included in source publication snapshot"
+  }
+}

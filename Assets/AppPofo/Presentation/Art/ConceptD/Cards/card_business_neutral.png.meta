@@ -1,0 +1,264 @@
+fileFormatVersion: 2
+guid: 4b6050ef67516a3488c1c861e764a2e4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 726131893096745136
+    second: card_business_neutral_0
+  - first:
+      213: 2759510678842831536
+    second: card_business_neutral_1
+  - first:
+      213: 4048635064816520449
+    second: card_business_neutral_2
+  - first:
+      213: -3054506356185882823
+    second: card_business_neutral_3
+  - first:
+      213: -2569430452195533204
+    second: card_business_neutral_4
+  - first:
+      213: -1668613142006227486
+    second: card_business_neutral_5
+  - first:
+      213: 1334366013337041489
+    second: card_business_neutral_6
+  - first:
+      213: 5040343724181320448
+    second: card_business_neutral_7
+  - first:
+      213: 3871520508709505714
+    second: card_business_neutral_8
+  - first:
+      213: 4510688872779154680
+    second: card_business_neutral_9
+  - first:
+      213: -6378984821888829688
+    second: card_business_neutral_10
+  - first:
+      213: -5207706040746480657
+    second: card_business_neutral_11
+  - first:
+      213: -808633160965522297
+    second: card_business_neutral_12
+  - first:
+      213: -6449000827713519597
+    second: card_business_neutral_13
+  - first:
+      213: -5895694508258975032
+    second: card_business_neutral_14
+  - first:
+      213: 8526153523974292909
+    second: card_business_neutral_15
+  - first:
+      213: -6624441679320692564
+    second: card_business_neutral_16
+  - first:
+      213: -329121370481131920
+    second: card_business_neutral_17
+  - first:
+      213: -1668459458343316968
+    second: card_business_neutral_18
+  - first:
+      213: -3399371795058625404
+    second: card_business_neutral_19
+  - first:
+      213: 4773113722619763329
+    second: card_business_neutral_20
+  - first:
+      213: -8816243646682683125
+    second: card_business_neutral_21
+  - first:
+      213: 3390520519597865363
+    second: card_business_neutral_22
+  - first:
+      213: -6138903480828215653
+    second: card_business_neutral_23
+  - first:
+      213: 769638019153499423
+    second: card_business_neutral_24
+  - first:
+      213: 8804246670916220731
+    second: card_business_neutral_25
+  - first:
+      213: 2687145092655780592
+    second: card_business_neutral_26
+  - first:
+      213: 3532762461711035625
+    second: card_business_neutral_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: card_business_neutral_8
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 92
+        width: 1923
+        height: 628
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ba0546f3676ab530800000000000000
+      internalID: 3871520508709505714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 08c8af7d130a21243b1f45853d56cd62
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      card_business_neutral_0: 726131893096745136
+      card_business_neutral_1: 2759510678842831536
+      card_business_neutral_10: -6378984821888829688
+      card_business_neutral_11: -5207706040746480657
+      card_business_neutral_12: -808633160965522297
+      card_business_neutral_13: -6449000827713519597
+      card_business_neutral_14: -5895694508258975032
+      card_business_neutral_15: 8526153523974292909
+      card_business_neutral_16: -6624441679320692564
+      card_business_neutral_17: -329121370481131920
+      card_business_neutral_18: -1668459458343316968
+      card_business_neutral_19: -3399371795058625404
+      card_business_neutral_2: 4048635064816520449
+      card_business_neutral_20: 4773113722619763329
+      card_business_neutral_21: -8816243646682683125
+      card_business_neutral_22: 3390520519597865363
+      card_business_neutral_23: -6138903480828215653
+      card_business_neutral_24: 769638019153499423
+      card_business_neutral_25: 8804246670916220731
+      card_business_neutral_26: 2687145092655780592
+      card_business_neutral_27: 3532762461711035625
+      card_business_neutral_3: -3054506356185882823
+      card_business_neutral_4: -2569430452195533204
+      card_business_neutral_5: -1668613142006227486
+      card_business_neutral_6: 1334366013337041489
+      card_business_neutral_7: 5040343724181320448
+      card_business_neutral_8: 3871520508709505714
+      card_business_neutral_9: 4510688872779154680
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,572 @@
+fileFormatVersion: 2
+guid: 345c03688be733642bcddacaa6fbf828
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4927995052488052840
+    second: GalleryButtonIcon_0
+  - first:
+      213: -9003164599050558111
+    second: GalleryButtonIcon_1
+  - first:
+      213: -2819721440118215600
+    second: GalleryButtonIcon_2
+  - first:
+      213: 5936799200670935734
+    second: GalleryButtonIcon_3
+  - first:
+      213: 3131945446471415709
+    second: GalleryButtonIcon_4
+  - first:
+      213: -3024799956378184759
+    second: GalleryButtonIcon_5
+  - first:
+      213: -3555401054530743915
+    second: GalleryButtonIcon_6
+  - first:
+      213: 7078038242643264105
+    second: GalleryButtonIcon_7
+  - first:
+      213: -7965808902526308203
+    second: GalleryButtonIcon_8
+  - first:
+      213: -1696457319197546580
+    second: GalleryButtonIcon_9
+  - first:
+      213: 2235504448059331330
+    second: GalleryButtonIcon_10
+  - first:
+      213: 3575501183397968006
+    second: GalleryButtonIcon_11
+  - first:
+      213: -4728222819505945607
+    second: GalleryButtonIcon_12
+  - first:
+      213: -7751698615907614230
+    second: GalleryButtonIcon_13
+  - first:
+      213: 1713762522466671237
+    second: GalleryButtonIcon_14
+  - first:
+      213: 4514286252787794566
+    second: GalleryButtonIcon_15
+  - first:
+      213: -3808499282298386612
+    second: GalleryButtonIcon_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GalleryButtonIcon_0
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 39
+        width: 1149
+        height: 1167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89f21910c9e3c9bb0800000000000000
+      internalID: -4927995052488052840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalleryButtonIcon_1
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 1036
+        width: 43
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 165283b7f755e0380800000000000000
+      internalID: -9003164599050558111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalleryButtonIcon_2
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 1010
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05c633c2a465ed8d0800000000000000
+      internalID: -2819721440118215600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalleryButtonIcon_3
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 1008
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ba60d22b6fb36250800000000000000
+      internalID: 5936799200670935734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalleryButtonIcon_4
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 836
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d97b4d03ac7e67b20800000000000000
+      internalID: 3131945446471415709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalleryButtonIcon_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 442
+        width: 158
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c3167b3770c506d0800000000000000
+      internalID: -3024799956378184759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalleryButtonIcon_6
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 258
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59155a6049da8aec0800000000000000
+      internalID: -3555401054530743915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalleryButtonIcon_7
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 182
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 962c167d74e3a3260800000000000000
+      internalID: 7078038242643264105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalleryButtonIcon_8
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 173
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59076400203c37190800000000000000
+      internalID: -7965808902526308203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalleryButtonIcon_9
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 185
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca76e907e09f478e0800000000000000
+      internalID: -1696457319197546580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalleryButtonIcon_10
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 186
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 203d168837b160f10800000000000000
+      internalID: 2235504448059331330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalleryButtonIcon_11
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 164
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 688bc6ae16bbe9130800000000000000
+      internalID: 3575501183397968006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalleryButtonIcon_12
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 160
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f3c378956af16eb0800000000000000
+      internalID: -4728222819505945607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalleryButtonIcon_13
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 160
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae180f8dd2f6c6490800000000000000
+      internalID: -7751698615907614230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalleryButtonIcon_14
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 132
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58ad00d2fe188c710800000000000000
+      internalID: 1713762522466671237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalleryButtonIcon_15
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 95
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68288dfdd67f5ae30800000000000000
+      internalID: 4514286252787794566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalleryButtonIcon_16
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 96
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c47464fb41e752bc0800000000000000
+      internalID: -3808499282298386612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      GalleryButtonIcon_0: -4927995052488052840
+      GalleryButtonIcon_1: -9003164599050558111
+      GalleryButtonIcon_10: 2235504448059331330
+      GalleryButtonIcon_11: 3575501183397968006
+      GalleryButtonIcon_12: -4728222819505945607
+      GalleryButtonIcon_13: -7751698615907614230
+      GalleryButtonIcon_14: 1713762522466671237
+      GalleryButtonIcon_15: 4514286252787794566
+      GalleryButtonIcon_16: -3808499282298386612
+      GalleryButtonIcon_2: -2819721440118215600
+      GalleryButtonIcon_3: 5936799200670935734
+      GalleryButtonIcon_4: 3131945446471415709
+      GalleryButtonIcon_5: -3024799956378184759
+      GalleryButtonIcon_6: -3555401054530743915
+      GalleryButtonIcon_7: 7078038242643264105
+      GalleryButtonIcon_8: -7965808902526308203
+      GalleryButtonIcon_9: -1696457319197546580
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

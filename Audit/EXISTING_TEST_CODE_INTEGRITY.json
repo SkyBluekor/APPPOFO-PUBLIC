@@ -1,0 +1,9 @@
+{
+  "status": "PASS",
+  "baseline": "Public candidate snapshot before this recovery task",
+  "existing_test_scripts_changed": [],
+  "tests_removed": false,
+  "unconditional_skips_added": false,
+  "assertions_weakened": false,
+  "new_validation": "Separate Editor-only actual-inference and resource-repair utilities with explicit assembly references"
+}

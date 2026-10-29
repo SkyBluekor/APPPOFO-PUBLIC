@@ -1,0 +1,252 @@
+fileFormatVersion: 2
+guid: ae19582d5dbf056459ea04b9b74b7186
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1477099760330369306
+    second: panel_white_0
+  - first:
+      213: -6236904242256804513
+    second: panel_white_1
+  - first:
+      213: -2070349362525811218
+    second: panel_white_2
+  - first:
+      213: 5249105014452676347
+    second: panel_white_3
+  - first:
+      213: 6273804755865654994
+    second: panel_white_4
+  - first:
+      213: -1938650549839363245
+    second: panel_white_5
+  - first:
+      213: -2521223530716449851
+    second: panel_white_6
+  - first:
+      213: -313075169148993093
+    second: panel_white_7
+  - first:
+      213: 1913640255069043629
+    second: panel_white_8
+  - first:
+      213: 8874690735484725133
+    second: panel_white_9
+  - first:
+      213: 3756016721322031225
+    second: panel_white_10
+  - first:
+      213: -6689247944175371959
+    second: panel_white_11
+  - first:
+      213: 3107194985200623469
+    second: panel_white_12
+  - first:
+      213: 8031239663106670830
+    second: panel_white_13
+  - first:
+      213: 6631037371473099403
+    second: panel_white_14
+  - first:
+      213: 156575722985793357
+    second: panel_white_15
+  - first:
+      213: 7525058062599411973
+    second: panel_white_16
+  - first:
+      213: 954599886780028828
+    second: panel_white_17
+  - first:
+      213: 5595690160623826111
+    second: panel_white_18
+  - first:
+      213: -8054189859882761729
+    second: panel_white_19
+  - first:
+      213: 2806925008524296516
+    second: panel_white_20
+  - first:
+      213: -3611075644857222664
+    second: panel_white_21
+  - first:
+      213: 5881309261717658952
+    second: panel_white_22
+  - first:
+      213: 7954482084421845154
+    second: panel_white_23
+  - first:
+      213: 6742577071289532162
+    second: panel_white_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: panel_white_0
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 133
+        width: 981
+        height: 1164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a196e40f766bf7410800000000000000
+      internalID: 1477099760330369306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      panel_white_0: 1477099760330369306
+      panel_white_1: -6236904242256804513
+      panel_white_10: 3756016721322031225
+      panel_white_11: -6689247944175371959
+      panel_white_12: 3107194985200623469
+      panel_white_13: 8031239663106670830
+      panel_white_14: 6631037371473099403
+      panel_white_15: 156575722985793357
+      panel_white_16: 7525058062599411973
+      panel_white_17: 954599886780028828
+      panel_white_18: 5595690160623826111
+      panel_white_19: -8054189859882761729
+      panel_white_2: -2070349362525811218
+      panel_white_20: 2806925008524296516
+      panel_white_21: -3611075644857222664
+      panel_white_22: 5881309261717658952
+      panel_white_23: 7954482084421845154
+      panel_white_24: 6742577071289532162
+      panel_white_3: 5249105014452676347
+      panel_white_4: 6273804755865654994
+      panel_white_5: -1938650549839363245
+      panel_white_6: -2521223530716449851
+      panel_white_7: -313075169148993093
+      panel_white_8: 1913640255069043629
+      panel_white_9: 8874690735484725133
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

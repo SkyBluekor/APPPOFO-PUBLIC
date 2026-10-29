@@ -1,0 +1,304 @@
+fileFormatVersion: 2
+guid: 1c052829cdd55e84abc679930a6cc61c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7579745757538058542
+    second: illust_welcome_hero_0
+  - first:
+      213: -4618036236929841091
+    second: illust_welcome_hero_1
+  - first:
+      213: 5055286691650651514
+    second: illust_welcome_hero_2
+  - first:
+      213: -813295208361319776
+    second: illust_welcome_hero_3
+  - first:
+      213: -6605624709132462640
+    second: illust_welcome_hero_4
+  - first:
+      213: -1902001098578988916
+    second: illust_welcome_hero_5
+  - first:
+      213: -5631079640312113402
+    second: illust_welcome_hero_6
+  - first:
+      213: -3220168046167344308
+    second: illust_welcome_hero_7
+  - first:
+      213: 2355184972871914995
+    second: illust_welcome_hero_8
+  - first:
+      213: -2016507043803848866
+    second: illust_welcome_hero_9
+  - first:
+      213: -6253532687104946941
+    second: illust_welcome_hero_10
+  - first:
+      213: 5801551061877241794
+    second: illust_welcome_hero_11
+  - first:
+      213: -7680288701393989260
+    second: illust_welcome_hero_12
+  - first:
+      213: 1195209863051067537
+    second: illust_welcome_hero_13
+  - first:
+      213: -4378914207327907389
+    second: illust_welcome_hero_14
+  - first:
+      213: 726201566121173342
+    second: illust_welcome_hero_15
+  - first:
+      213: 9019925271959457735
+    second: illust_welcome_hero_16
+  - first:
+      213: -9062382343982789913
+    second: illust_welcome_hero_17
+  - first:
+      213: 5141888693602815334
+    second: illust_welcome_hero_18
+  - first:
+      213: 1684964340632404878
+    second: illust_welcome_hero_19
+  - first:
+      213: -4371337685698296235
+    second: illust_welcome_hero_20
+  - first:
+      213: -6386780926889649847
+    second: illust_welcome_hero_21
+  - first:
+      213: 5973738665402138770
+    second: illust_welcome_hero_22
+  - first:
+      213: 1418801891377164675
+    second: illust_welcome_hero_23
+  - first:
+      213: -4581011846680001081
+    second: illust_welcome_hero_24
+  - first:
+      213: 3612255302394544572
+    second: illust_welcome_hero_25
+  - first:
+      213: -1707125930471358468
+    second: illust_welcome_hero_26
+  - first:
+      213: 4343672327464709300
+    second: illust_welcome_hero_27
+  - first:
+      213: -4485996927891672952
+    second: illust_welcome_hero_28
+  - first:
+      213: -6462037222024941073
+    second: illust_welcome_hero_29
+  - first:
+      213: 8838490872184793743
+    second: illust_welcome_hero_30
+  - first:
+      213: -9044922431698460146
+    second: illust_welcome_hero_31
+  - first:
+      213: 3344740236444748566
+    second: illust_welcome_hero_32
+  - first:
+      213: 3690733209254468236
+    second: illust_welcome_hero_33
+  - first:
+      213: -4078137785364109276
+    second: illust_welcome_hero_34
+  - first:
+      213: -5944180569922636366
+    second: illust_welcome_hero_35
+  - first:
+      213: -5780268674900761546
+    second: illust_welcome_hero_36
+  - first:
+      213: -3291005567832768226
+    second: illust_welcome_hero_37
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: illust_welcome_hero_7
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 130
+        width: 995
+        height: 1164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4bb123293aaf43d0800000000000000
+      internalID: -3220168046167344308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      illust_welcome_hero_0: 7579745757538058542
+      illust_welcome_hero_1: -4618036236929841091
+      illust_welcome_hero_10: -6253532687104946941
+      illust_welcome_hero_11: 5801551061877241794
+      illust_welcome_hero_12: -7680288701393989260
+      illust_welcome_hero_13: 1195209863051067537
+      illust_welcome_hero_14: -4378914207327907389
+      illust_welcome_hero_15: 726201566121173342
+      illust_welcome_hero_16: 9019925271959457735
+      illust_welcome_hero_17: -9062382343982789913
+      illust_welcome_hero_18: 5141888693602815334
+      illust_welcome_hero_19: 1684964340632404878
+      illust_welcome_hero_2: 5055286691650651514
+      illust_welcome_hero_20: -4371337685698296235
+      illust_welcome_hero_21: -6386780926889649847
+      illust_welcome_hero_22: 5973738665402138770
+      illust_welcome_hero_23: 1418801891377164675
+      illust_welcome_hero_24: -4581011846680001081
+      illust_welcome_hero_25: 3612255302394544572
+      illust_welcome_hero_26: -1707125930471358468
+      illust_welcome_hero_27: 4343672327464709300
+      illust_welcome_hero_28: -4485996927891672952
+      illust_welcome_hero_29: -6462037222024941073
+      illust_welcome_hero_3: -813295208361319776
+      illust_welcome_hero_30: 8838490872184793743
+      illust_welcome_hero_31: -9044922431698460146
+      illust_welcome_hero_32: 3344740236444748566
+      illust_welcome_hero_33: 3690733209254468236
+      illust_welcome_hero_34: -4078137785364109276
+      illust_welcome_hero_35: -5944180569922636366
+      illust_welcome_hero_36: -5780268674900761546
+      illust_welcome_hero_37: -3291005567832768226
+      illust_welcome_hero_4: -6605624709132462640
+      illust_welcome_hero_5: -1902001098578988916
+      illust_welcome_hero_6: -5631079640312113402
+      illust_welcome_hero_7: -3220168046167344308
+      illust_welcome_hero_8: 2355184972871914995
+      illust_welcome_hero_9: -2016507043803848866
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

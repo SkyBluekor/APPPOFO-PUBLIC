@@ -1,0 +1,18 @@
+{
+    "name": "AppPofo.Infrastructure",
+    "rootNamespace": "AppPofo.Infrastructure",
+    "references": [
+        "GUID:a06152d630dd1314fb52a21b2c6f8da9",
+        "GUID:4b952c5ad7939bd42adde6cec1c2b1ac",
+        "GUID:17f96cd3b93974f6493e51a2f25c1241"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

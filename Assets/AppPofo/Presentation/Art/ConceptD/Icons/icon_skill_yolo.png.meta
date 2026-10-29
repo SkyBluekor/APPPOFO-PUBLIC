@@ -1,0 +1,304 @@
+fileFormatVersion: 2
+guid: 1f70285a24d9aad49967215109649056
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3082025298248578635
+    second: icon_skill_yolo_0
+  - first:
+      213: -2072642894579032414
+    second: icon_skill_yolo_1
+  - first:
+      213: 5109844640666240002
+    second: icon_skill_yolo_2
+  - first:
+      213: -3377761590550160817
+    second: icon_skill_yolo_3
+  - first:
+      213: -1560691501065055020
+    second: icon_skill_yolo_4
+  - first:
+      213: 3663172861861175996
+    second: icon_skill_yolo_5
+  - first:
+      213: 9092830973394643643
+    second: icon_skill_yolo_6
+  - first:
+      213: -1201958724784423705
+    second: icon_skill_yolo_7
+  - first:
+      213: 7014993072515372320
+    second: icon_skill_yolo_8
+  - first:
+      213: -600245086825925309
+    second: icon_skill_yolo_9
+  - first:
+      213: 2367769748204857008
+    second: icon_skill_yolo_10
+  - first:
+      213: -1575598777705576485
+    second: icon_skill_yolo_11
+  - first:
+      213: -878435132012994606
+    second: icon_skill_yolo_12
+  - first:
+      213: -2870468829580209233
+    second: icon_skill_yolo_13
+  - first:
+      213: -7822873804715145819
+    second: icon_skill_yolo_14
+  - first:
+      213: -4921538114586512056
+    second: icon_skill_yolo_15
+  - first:
+      213: 7764092008838408096
+    second: icon_skill_yolo_16
+  - first:
+      213: 1083228818352112468
+    second: icon_skill_yolo_17
+  - first:
+      213: 4140334188815830099
+    second: icon_skill_yolo_18
+  - first:
+      213: 5941025829326191359
+    second: icon_skill_yolo_19
+  - first:
+      213: 6486697141275409726
+    second: icon_skill_yolo_20
+  - first:
+      213: -699681494460962633
+    second: icon_skill_yolo_21
+  - first:
+      213: -1951015198702205201
+    second: icon_skill_yolo_22
+  - first:
+      213: -4595152117130877030
+    second: icon_skill_yolo_23
+  - first:
+      213: -7342979445451176689
+    second: icon_skill_yolo_24
+  - first:
+      213: 4104300782292897041
+    second: icon_skill_yolo_25
+  - first:
+      213: 1943982140483814035
+    second: icon_skill_yolo_26
+  - first:
+      213: -2716613773173354768
+    second: icon_skill_yolo_27
+  - first:
+      213: 5104261959268654300
+    second: icon_skill_yolo_28
+  - first:
+      213: 7519655755237615582
+    second: icon_skill_yolo_29
+  - first:
+      213: -5871819489663906129
+    second: icon_skill_yolo_30
+  - first:
+      213: -1495786193218997567
+    second: icon_skill_yolo_31
+  - first:
+      213: 8941156261125018193
+    second: icon_skill_yolo_32
+  - first:
+      213: -4225752114950767505
+    second: icon_skill_yolo_33
+  - first:
+      213: 8822954061398405060
+    second: icon_skill_yolo_34
+  - first:
+      213: -2048603780049289682
+    second: icon_skill_yolo_35
+  - first:
+      213: -5329602352057691030
+    second: icon_skill_yolo_36
+  - first:
+      213: -3725992759079521672
+    second: icon_skill_yolo_37
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: icon_skill_yolo_16
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 225
+        width: 851
+        height: 806
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a7234ecb889fbb60800000000000000
+      internalID: 7764092008838408096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 1892fc69f27d148419bed58dc600eb46
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      icon_skill_yolo_0: -3082025298248578635
+      icon_skill_yolo_1: -2072642894579032414
+      icon_skill_yolo_10: 2367769748204857008
+      icon_skill_yolo_11: -1575598777705576485
+      icon_skill_yolo_12: -878435132012994606
+      icon_skill_yolo_13: -2870468829580209233
+      icon_skill_yolo_14: -7822873804715145819
+      icon_skill_yolo_15: -4921538114586512056
+      icon_skill_yolo_16: 7764092008838408096
+      icon_skill_yolo_17: 1083228818352112468
+      icon_skill_yolo_18: 4140334188815830099
+      icon_skill_yolo_19: 5941025829326191359
+      icon_skill_yolo_2: 5109844640666240002
+      icon_skill_yolo_20: 6486697141275409726
+      icon_skill_yolo_21: -699681494460962633
+      icon_skill_yolo_22: -1951015198702205201
+      icon_skill_yolo_23: -4595152117130877030
+      icon_skill_yolo_24: -7342979445451176689
+      icon_skill_yolo_25: 4104300782292897041
+      icon_skill_yolo_26: 1943982140483814035
+      icon_skill_yolo_27: -2716613773173354768
+      icon_skill_yolo_28: 5104261959268654300
+      icon_skill_yolo_29: 7519655755237615582
+      icon_skill_yolo_3: -3377761590550160817
+      icon_skill_yolo_30: -5871819489663906129
+      icon_skill_yolo_31: -1495786193218997567
+      icon_skill_yolo_32: 8941156261125018193
+      icon_skill_yolo_33: -4225752114950767505
+      icon_skill_yolo_34: 8822954061398405060
+      icon_skill_yolo_35: -2048603780049289682
+      icon_skill_yolo_36: -5329602352057691030
+      icon_skill_yolo_37: -3725992759079521672
+      icon_skill_yolo_4: -1560691501065055020
+      icon_skill_yolo_5: 3663172861861175996
+      icon_skill_yolo_6: 9092830973394643643
+      icon_skill_yolo_7: -1201958724784423705
+      icon_skill_yolo_8: 7014993072515372320
+      icon_skill_yolo_9: -600245086825925309
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

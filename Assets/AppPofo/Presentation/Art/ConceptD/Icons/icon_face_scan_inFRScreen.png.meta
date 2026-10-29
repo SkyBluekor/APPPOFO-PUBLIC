@@ -1,0 +1,268 @@
+fileFormatVersion: 2
+guid: 3d15534775de60f4db394971643da37c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7088696942089936892
+    second: icon_face_scan_inFRScreen_0
+  - first:
+      213: 5162071285736621579
+    second: icon_face_scan_inFRScreen_1
+  - first:
+      213: -7525406641283071968
+    second: icon_face_scan_inFRScreen_2
+  - first:
+      213: 3432480224769474712
+    second: icon_face_scan_inFRScreen_3
+  - first:
+      213: -4959857358865583787
+    second: icon_face_scan_inFRScreen_4
+  - first:
+      213: 3683879652705641251
+    second: icon_face_scan_inFRScreen_5
+  - first:
+      213: -2051141731725209061
+    second: icon_face_scan_inFRScreen_6
+  - first:
+      213: 1319224136975101110
+    second: icon_face_scan_inFRScreen_7
+  - first:
+      213: -6718422959129676685
+    second: icon_face_scan_inFRScreen_8
+  - first:
+      213: 7945204584236920644
+    second: icon_face_scan_inFRScreen_9
+  - first:
+      213: -2082021948350280713
+    second: icon_face_scan_inFRScreen_10
+  - first:
+      213: -3873244529132242243
+    second: icon_face_scan_inFRScreen_11
+  - first:
+      213: 6280593036907933040
+    second: icon_face_scan_inFRScreen_12
+  - first:
+      213: -7581674025537754784
+    second: icon_face_scan_inFRScreen_13
+  - first:
+      213: -4583400720023715866
+    second: icon_face_scan_inFRScreen_14
+  - first:
+      213: 130731433970145215
+    second: icon_face_scan_inFRScreen_15
+  - first:
+      213: -6280148605464671597
+    second: icon_face_scan_inFRScreen_16
+  - first:
+      213: -2674921858396001151
+    second: icon_face_scan_inFRScreen_17
+  - first:
+      213: -6480548418049940295
+    second: icon_face_scan_inFRScreen_18
+  - first:
+      213: 6787521642273791203
+    second: icon_face_scan_inFRScreen_19
+  - first:
+      213: 8869812313571242838
+    second: icon_face_scan_inFRScreen_20
+  - first:
+      213: 8039796861232605426
+    second: icon_face_scan_inFRScreen_21
+  - first:
+      213: 8703002899769687055
+    second: icon_face_scan_inFRScreen_22
+  - first:
+      213: 5657632154707376128
+    second: icon_face_scan_inFRScreen_23
+  - first:
+      213: 1148291267990766323
+    second: icon_face_scan_inFRScreen_24
+  - first:
+      213: 2720266852192191919
+    second: icon_face_scan_inFRScreen_25
+  - first:
+      213: 873389746765410520
+    second: icon_face_scan_inFRScreen_26
+  - first:
+      213: 4317164081739568400
+    second: icon_face_scan_inFRScreen_27
+  - first:
+      213: -6398694523001723190
+    second: icon_face_scan_inFRScreen_28
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: icon_face_scan_inFRScreen_0
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 263
+        width: 759
+        height: 713
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 400e45e40b3ef9d90800000000000000
+      internalID: -7088696942089936892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: e2f7df42aca4a964ea9e974beda4dcb7
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      icon_face_scan_inFRScreen_0: -7088696942089936892
+      icon_face_scan_inFRScreen_1: 5162071285736621579
+      icon_face_scan_inFRScreen_10: -2082021948350280713
+      icon_face_scan_inFRScreen_11: -3873244529132242243
+      icon_face_scan_inFRScreen_12: 6280593036907933040
+      icon_face_scan_inFRScreen_13: -7581674025537754784
+      icon_face_scan_inFRScreen_14: -4583400720023715866
+      icon_face_scan_inFRScreen_15: 130731433970145215
+      icon_face_scan_inFRScreen_16: -6280148605464671597
+      icon_face_scan_inFRScreen_17: -2674921858396001151
+      icon_face_scan_inFRScreen_18: -6480548418049940295
+      icon_face_scan_inFRScreen_19: 6787521642273791203
+      icon_face_scan_inFRScreen_2: -7525406641283071968
+      icon_face_scan_inFRScreen_20: 8869812313571242838
+      icon_face_scan_inFRScreen_21: 8039796861232605426
+      icon_face_scan_inFRScreen_22: 8703002899769687055
+      icon_face_scan_inFRScreen_23: 5657632154707376128
+      icon_face_scan_inFRScreen_24: 1148291267990766323
+      icon_face_scan_inFRScreen_25: 2720266852192191919
+      icon_face_scan_inFRScreen_26: 873389746765410520
+      icon_face_scan_inFRScreen_27: 4317164081739568400
+      icon_face_scan_inFRScreen_28: -6398694523001723190
+      icon_face_scan_inFRScreen_3: 3432480224769474712
+      icon_face_scan_inFRScreen_4: -4959857358865583787
+      icon_face_scan_inFRScreen_5: 3683879652705641251
+      icon_face_scan_inFRScreen_6: -2051141731725209061
+      icon_face_scan_inFRScreen_7: 1319224136975101110
+      icon_face_scan_inFRScreen_8: -6718422959129676685
+      icon_face_scan_inFRScreen_9: 7945204584236920644
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

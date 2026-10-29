@@ -1,0 +1,204 @@
+fileFormatVersion: 2
+guid: 395e1b13e1015434db8d32ee57937e8f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3531755179006086421
+    second: icon_camera_registration_0
+  - first:
+      213: 8078802350711466723
+    second: icon_camera_registration_1
+  - first:
+      213: 6286410679864051673
+    second: icon_camera_registration_2
+  - first:
+      213: 8553678245045939964
+    second: icon_camera_registration_3
+  - first:
+      213: -8025729419818812270
+    second: icon_camera_registration_4
+  - first:
+      213: -29174169867875279
+    second: icon_camera_registration_5
+  - first:
+      213: -8323161206025027578
+    second: icon_camera_registration_6
+  - first:
+      213: -8471051909603820989
+    second: icon_camera_registration_7
+  - first:
+      213: 8995460361090552825
+    second: icon_camera_registration_8
+  - first:
+      213: -8792632617519977698
+    second: icon_camera_registration_9
+  - first:
+      213: -1137910652150799108
+    second: icon_camera_registration_10
+  - first:
+      213: 4626254431903802697
+    second: icon_camera_registration_11
+  - first:
+      213: -5012854823073875271
+    second: icon_camera_registration_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: icon_camera_registration_0
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 332
+        width: 778
+        height: 602
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be232b1706facfec0800000000000000
+      internalID: -3531755179006086421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 9b0ae4afe2c825b459d6688fb79fc473
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      icon_camera_registration_0: -3531755179006086421
+      icon_camera_registration_1: 8078802350711466723
+      icon_camera_registration_10: -1137910652150799108
+      icon_camera_registration_11: 4626254431903802697
+      icon_camera_registration_12: -5012854823073875271
+      icon_camera_registration_2: 6286410679864051673
+      icon_camera_registration_3: 8553678245045939964
+      icon_camera_registration_4: -8025729419818812270
+      icon_camera_registration_5: -29174169867875279
+      icon_camera_registration_6: -8323161206025027578
+      icon_camera_registration_7: -8471051909603820989
+      icon_camera_registration_8: 8995460361090552825
+      icon_camera_registration_9: -8792632617519977698
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

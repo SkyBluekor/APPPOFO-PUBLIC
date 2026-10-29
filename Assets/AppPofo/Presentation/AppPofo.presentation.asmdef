@@ -1,0 +1,23 @@
+{
+    "name": "AppPofo.presentation",
+    "rootNamespace": "AppPofo.presentation",
+    "references": [
+        "GUID:4b952c5ad7939bd42adde6cec1c2b1ac",
+        "GUID:a06152d630dd1314fb52a21b2c6f8da9",
+        "GUID:28c4dc55c428e0c4596a4971101c96ff",
+        "GUID:75469ad4d38634e559750d17036d5f7c",
+        "GUID:63a57c8b658089e49a173b0f0c4870a7",
+        "OpenCvSharp"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [
+        ""
+    ],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

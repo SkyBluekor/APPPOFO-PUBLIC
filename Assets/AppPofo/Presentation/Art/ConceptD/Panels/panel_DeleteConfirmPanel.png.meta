@@ -1,0 +1,228 @@
+fileFormatVersion: 2
+guid: ef0388d26ac5d82409b5152993258110
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2614169371140655421
+    second: panel_DeleteConfirmPanel_0
+  - first:
+      213: -7147872048248869340
+    second: panel_DeleteConfirmPanel_1
+  - first:
+      213: -2093646214378784411
+    second: panel_DeleteConfirmPanel_2
+  - first:
+      213: 8022492132278653727
+    second: panel_DeleteConfirmPanel_3
+  - first:
+      213: 7581395940683759120
+    second: panel_DeleteConfirmPanel_4
+  - first:
+      213: -6616235751145256755
+    second: panel_DeleteConfirmPanel_5
+  - first:
+      213: -6522428157164766443
+    second: panel_DeleteConfirmPanel_6
+  - first:
+      213: -8556863266350864700
+    second: panel_DeleteConfirmPanel_7
+  - first:
+      213: -5944009299954487559
+    second: panel_DeleteConfirmPanel_8
+  - first:
+      213: -6342341503494317190
+    second: panel_DeleteConfirmPanel_9
+  - first:
+      213: -8051784296477609633
+    second: panel_DeleteConfirmPanel_10
+  - first:
+      213: 8004361797694885163
+    second: panel_DeleteConfirmPanel_11
+  - first:
+      213: 2246736424340608173
+    second: panel_DeleteConfirmPanel_12
+  - first:
+      213: 335292784977303005
+    second: panel_DeleteConfirmPanel_13
+  - first:
+      213: -1391235236771232753
+    second: panel_DeleteConfirmPanel_14
+  - first:
+      213: 5517256092666912695
+    second: panel_DeleteConfirmPanel_15
+  - first:
+      213: 3168984801135294963
+    second: panel_DeleteConfirmPanel_16
+  - first:
+      213: 9220173216946528728
+    second: panel_DeleteConfirmPanel_17
+  - first:
+      213: 4176601324549491898
+    second: panel_DeleteConfirmPanel_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: panel_DeleteConfirmPanel_7
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 216
+        width: 1254
+        height: 635
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c66199023aef3980800000000000000
+      internalID: -8556863266350864700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 3b6e543d455554e418b15e3214ab8943
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      panel_DeleteConfirmPanel_0: 2614169371140655421
+      panel_DeleteConfirmPanel_1: -7147872048248869340
+      panel_DeleteConfirmPanel_10: -8051784296477609633
+      panel_DeleteConfirmPanel_11: 8004361797694885163
+      panel_DeleteConfirmPanel_12: 2246736424340608173
+      panel_DeleteConfirmPanel_13: 335292784977303005
+      panel_DeleteConfirmPanel_14: -1391235236771232753
+      panel_DeleteConfirmPanel_15: 5517256092666912695
+      panel_DeleteConfirmPanel_16: 3168984801135294963
+      panel_DeleteConfirmPanel_17: 9220173216946528728
+      panel_DeleteConfirmPanel_18: 4176601324549491898
+      panel_DeleteConfirmPanel_2: -2093646214378784411
+      panel_DeleteConfirmPanel_3: 8022492132278653727
+      panel_DeleteConfirmPanel_4: 7581395940683759120
+      panel_DeleteConfirmPanel_5: -6616235751145256755
+      panel_DeleteConfirmPanel_6: -6522428157164766443
+      panel_DeleteConfirmPanel_7: -8556863266350864700
+      panel_DeleteConfirmPanel_8: -5944009299954487559
+      panel_DeleteConfirmPanel_9: -6342341503494317190
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

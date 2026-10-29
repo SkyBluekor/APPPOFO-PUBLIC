@@ -1,0 +1,24 @@
+{
+  "date_kst": "2026-10-29",
+  "decision": "OWNER_APPROVED_WITH_REVIEW_NOTES",
+  "repository": "https://github.com/SkyBluekor/APPPOFO-PUBLIC",
+  "authorization": "User explicitly instructed to document the matters in README and upload, after discussion of noncommercial portfolio use and unresolved icon conditions.",
+  "scope": [
+    "Create a NEW public repository on the confirmed owner account",
+    "One fresh root commit containing reviewed source only; no original Git history",
+    "Keep existing UI and record unresolved graphic/mark usage conditions",
+    "Keep SFace/native/legacy TMP payloads install-only and excluded from Git"
+  ],
+  "legal_clearance": "NOT_ASSERTED; owner publication authorization is not third-party permission or a legal finding",
+  "remaining_reviews": [
+    "Existing 20 generated brand/technology icon variants retain REVIEW",
+    "Directly bundled model/native/legacy sample distribution remains outside this source publication approval"
+  ],
+  "own_project_license": "No license template or open-source license selected or added",
+  "prohibited_actions_retained": [
+    "Modify original private project/repository",
+    "Copy original Git history",
+    "Deploy or request original production Worker/D1",
+    "Publish local credentials, DB, actual face/embedding data or installed excluded binaries"
+  ]
+}

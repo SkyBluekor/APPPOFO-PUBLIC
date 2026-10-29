@@ -1,0 +1,97 @@
+{
+  "engine": "@echogarden/espeak-ng-emscripten",
+  "version": "0.3.5",
+  "voice": "ko",
+  "rate": 0.87,
+  "sample_rate": 22050,
+  "origin": "Locally synthesized formant speech from newly written Korean guidance; no CLOVA audio or human recording used.",
+  "files": [
+    {
+      "file": "01_voice_face_front.wav",
+      "transcript": "정면을 바라봐 주세요.",
+      "phonemes": "tɕ_ˈʌ_ŋ_m_j_ʌ_n_ˌɯ_ɫ p_ɐ_ɾ_ˈɐ_b_w_ɐ tɕ_ˈu_s_e_j_ˌo\n",
+      "duration_seconds": 3.8817233560090703,
+      "sha256": "2728f1a67e6c1e66b5c5ec9ff2549ed06a903a78ae6a8fd0a938af5db473222f",
+      "pcm_check": {
+        "channels": 1,
+        "sample_width": 2,
+        "sample_rate": 22050,
+        "peak": 25619,
+        "rms": 3182.3859260550867
+      }
+    },
+    {
+      "file": "02_voice_face_left.wav",
+      "transcript": "고개를 왼쪽으로 천천히 돌려 주세요.",
+      "phonemes": "ɡ_ˈo_q_ɛ_ɾ_ˌɯ_ɫ w_e_n_tɕ_ˈo_q_ɯ_ɾ_ˌo tʃ_h_ˈʌ_n_tʃ_h_ʌ_n_h_ˌi d_ˈo_l_j_ʌ tɕ_ˈu_s_e_j_ˌo\n",
+      "duration_seconds": 6.267619047619047,
+      "sha256": "e9b6780f1140eb3f99edecbb85fe445540678252d39c9fd2cb89e58b6f22e804",
+      "pcm_check": {
+        "channels": 1,
+        "sample_width": 2,
+        "sample_rate": 22050,
+        "peak": 26855,
+        "rms": 2975.8653845924755
+      }
+    },
+    {
+      "file": "03_voice_face_right.wav",
+      "transcript": "고개를 오른쪽으로 천천히 돌려 주세요.",
+      "phonemes": "ɡ_ˈo_q_ɛ_ɾ_ˌɯ_ɫ ˌo_ɾ_ɯ_n_tɕ_ˈo_q_ɯ_ɾ_ˌo tʃ_h_ˈʌ_n_tʃ_h_ʌ_n_h_ˌi d_ˈo_l_j_ʌ tɕ_ˈu_s_e_j_ˌo\n",
+      "duration_seconds": 6.449206349206349,
+      "sha256": "6b6f38a6b72e9af16c7ccf287904cb6efa37579d365f8e1b0685ba8cb420d407",
+      "pcm_check": {
+        "channels": 1,
+        "sample_width": 2,
+        "sample_rate": 22050,
+        "peak": 27290,
+        "rms": 2997.4410388236643
+      }
+    },
+    {
+      "file": "04_voice_face_complete.wav",
+      "transcript": "얼굴 등록이 완료되었습니다.",
+      "phonemes": "ˈʌ_ɫ_q_u_ɫ d_ˈɯ_ŋ_ɾ_o_q_ˌi w_ˈɐ_n_ɾ_j_o_d_w_ˌe_ʌ_t-_s-_ˌɯ_p_n_i_d_ˌɐ\n",
+      "duration_seconds": 4.851156462585034,
+      "sha256": "722ea5ab4ef585769af60676fb88d7b9254cf0898e11774c2e473271e6e8f28a",
+      "pcm_check": {
+        "channels": 1,
+        "sample_width": 2,
+        "sample_rate": 22050,
+        "peak": 25506,
+        "rms": 2789.2309675233887
+      }
+    },
+    {
+      "file": "05_voice_face_too_dark.wav",
+      "transcript": "주변이 어둡습니다. 밝은 곳으로 이동해 주세요.",
+      "phonemes": "tɕ_ˈu_b_j_ʌ_n_ˌi_ ʌ_d_ˈu_p_s-_ɯ_p_n_ˌi_d_ɐ\np_ˈɐ_l_ɡ_ɯ_n ɡ_ˈo_s_ɯ_ɾ_ˌo i_d_ˈo_ŋ_h_ɛ tɕ_ˈu_s_e_j_ˌo\n",
+      "duration_seconds": 8.496689342403629,
+      "sha256": "ea5218593c43f9580bf05234ef3264447b8a3865189bfd6b52660f470e0aa8ab",
+      "pcm_check": {
+        "channels": 1,
+        "sample_width": 2,
+        "sample_rate": 22050,
+        "peak": 22417,
+        "rms": 2685.950506226592
+      }
+    },
+    {
+      "file": "06_voice_face_center.wav",
+      "transcript": "얼굴을 화면 가운데에 맞춰 주세요.",
+      "phonemes": "ˈʌ_ɫ_q_u_ɾ_ˌɯ_ɫ h_w_ˈɐ_m_j_ʌ_n ɡ_ɐ_ˈu_n_d_e_ˌe_m_ˈɐ_t_tʃ_h_w_ʌ tɕ_ˈu_s_e_j_ˌo\n",
+      "duration_seconds": 5.67265306122449,
+      "sha256": "d210c8fcbcb93f4141b902fd67ea7a3038cc7643036f7bec7cb8645ecc017427",
+      "pcm_check": {
+        "channels": 1,
+        "sample_width": 2,
+        "sample_rate": 22050,
+        "peak": 26121,
+        "rms": 3175.8931585982596
+      }
+    }
+  ],
+  "reproduction": "tools/generate_guidance.py invokes an independently installed eSpeak NG CLI. Generated release files used the 0.3.5 Emscripten build recorded above; alternate CLI builds are semantically reproducible but not byte-identical.",
+  "license_basis": "eSpeak NG GPL-3.0 section 2 and GNU GPL FAQ output guidance. Newly authored text rendered by formant synthesis; no engine code, voice database, CLOVA sample, MBROLA voice or human recording is distributed as audio.",
+  "human_listening_review": "NOT_VERIFIED; final Korean intelligibility and desired voice quality should be reviewed by the user."
+}

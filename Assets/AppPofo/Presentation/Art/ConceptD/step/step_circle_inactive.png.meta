@@ -1,0 +1,276 @@
+fileFormatVersion: 2
+guid: 94a4ea262fdc1d1419152c4068f422b4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -740234565038179478
+    second: step_circle_inactive_0
+  - first:
+      213: -8385673717795270374
+    second: step_circle_inactive_1
+  - first:
+      213: 8101951522696774632
+    second: step_circle_inactive_2
+  - first:
+      213: 3760976928564000636
+    second: step_circle_inactive_3
+  - first:
+      213: 6477017020311265897
+    second: step_circle_inactive_4
+  - first:
+      213: 4826092293356533585
+    second: step_circle_inactive_5
+  - first:
+      213: 9041810301530647058
+    second: step_circle_inactive_6
+  - first:
+      213: 2074124162146935953
+    second: step_circle_inactive_7
+  - first:
+      213: -7295511150540294657
+    second: step_circle_inactive_8
+  - first:
+      213: -1564421604494589078
+    second: step_circle_inactive_9
+  - first:
+      213: 8711871772955207294
+    second: step_circle_inactive_10
+  - first:
+      213: -2649932469721515978
+    second: step_circle_inactive_11
+  - first:
+      213: -872524142274879331
+    second: step_circle_inactive_12
+  - first:
+      213: 4560783247060487471
+    second: step_circle_inactive_13
+  - first:
+      213: 5760819224085283077
+    second: step_circle_inactive_14
+  - first:
+      213: -5307811087049187939
+    second: step_circle_inactive_15
+  - first:
+      213: 7171378660076800702
+    second: step_circle_inactive_16
+  - first:
+      213: 3385189630595905564
+    second: step_circle_inactive_17
+  - first:
+      213: -884742781086043182
+    second: step_circle_inactive_18
+  - first:
+      213: 1855262114642654372
+    second: step_circle_inactive_19
+  - first:
+      213: -3176017687975150503
+    second: step_circle_inactive_20
+  - first:
+      213: 3643774944435685230
+    second: step_circle_inactive_21
+  - first:
+      213: 8838132132531030570
+    second: step_circle_inactive_22
+  - first:
+      213: -1882061377385858344
+    second: step_circle_inactive_23
+  - first:
+      213: 3191853752158518659
+    second: step_circle_inactive_24
+  - first:
+      213: -1165615762869338685
+    second: step_circle_inactive_25
+  - first:
+      213: 2204512965360439356
+    second: step_circle_inactive_26
+  - first:
+      213: 5284557647755622336
+    second: step_circle_inactive_27
+  - first:
+      213: 9183059434962540819
+    second: step_circle_inactive_28
+  - first:
+      213: -8421672182355596187
+    second: step_circle_inactive_29
+  - first:
+      213: -6958363974804724463
+    second: step_circle_inactive_30
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: step_circle_inactive_0
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 247
+        width: 801
+        height: 769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6bfe64c5982ab5f0800000000000000
+      internalID: -740234565038179478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 0759e57e1a0b3d147bda7922c087b361
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      step_circle_inactive_0: -740234565038179478
+      step_circle_inactive_1: -8385673717795270374
+      step_circle_inactive_10: 8711871772955207294
+      step_circle_inactive_11: -2649932469721515978
+      step_circle_inactive_12: -872524142274879331
+      step_circle_inactive_13: 4560783247060487471
+      step_circle_inactive_14: 5760819224085283077
+      step_circle_inactive_15: -5307811087049187939
+      step_circle_inactive_16: 7171378660076800702
+      step_circle_inactive_17: 3385189630595905564
+      step_circle_inactive_18: -884742781086043182
+      step_circle_inactive_19: 1855262114642654372
+      step_circle_inactive_2: 8101951522696774632
+      step_circle_inactive_20: -3176017687975150503
+      step_circle_inactive_21: 3643774944435685230
+      step_circle_inactive_22: 8838132132531030570
+      step_circle_inactive_23: -1882061377385858344
+      step_circle_inactive_24: 3191853752158518659
+      step_circle_inactive_25: -1165615762869338685
+      step_circle_inactive_26: 2204512965360439356
+      step_circle_inactive_27: 5284557647755622336
+      step_circle_inactive_28: 9183059434962540819
+      step_circle_inactive_29: -8421672182355596187
+      step_circle_inactive_3: 3760976928564000636
+      step_circle_inactive_30: -6958363974804724463
+      step_circle_inactive_4: 6477017020311265897
+      step_circle_inactive_5: 4826092293356533585
+      step_circle_inactive_6: 9041810301530647058
+      step_circle_inactive_7: 2074124162146935953
+      step_circle_inactive_8: -7295511150540294657
+      step_circle_inactive_9: -1564421604494589078
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

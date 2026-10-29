@@ -1,0 +1,232 @@
+fileFormatVersion: 2
+guid: 05a87530d0831b542923ffb5b5faf8d1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 225716013482233563
+    second: icon_briefcase_0
+  - first:
+      213: 8046623835473782852
+    second: icon_briefcase_1
+  - first:
+      213: 6507526618819690693
+    second: icon_briefcase_2
+  - first:
+      213: -3523963258698557048
+    second: icon_briefcase_3
+  - first:
+      213: 3693044908503266750
+    second: icon_briefcase_4
+  - first:
+      213: 283931615271118779
+    second: icon_briefcase_5
+  - first:
+      213: 2929594834330796027
+    second: icon_briefcase_6
+  - first:
+      213: -9141222307905849164
+    second: icon_briefcase_7
+  - first:
+      213: -5782018807123685430
+    second: icon_briefcase_8
+  - first:
+      213: 9150849071107518745
+    second: icon_briefcase_9
+  - first:
+      213: 6150575372240212348
+    second: icon_briefcase_10
+  - first:
+      213: 3044613193824188027
+    second: icon_briefcase_11
+  - first:
+      213: -5967676054551682685
+    second: icon_briefcase_12
+  - first:
+      213: -3122844104272896615
+    second: icon_briefcase_13
+  - first:
+      213: 9156858291024441425
+    second: icon_briefcase_14
+  - first:
+      213: -5245201718752758706
+    second: icon_briefcase_15
+  - first:
+      213: 8302042053531765325
+    second: icon_briefcase_16
+  - first:
+      213: 2800849117483088950
+    second: icon_briefcase_17
+  - first:
+      213: 381150547563631374
+    second: icon_briefcase_18
+  - first:
+      213: 3748055386063114552
+    second: icon_briefcase_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: icon_briefcase_7
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 173
+        width: 977
+        height: 957
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b835644ebad32180800000000000000
+      internalID: -9141222307905849164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      icon_briefcase_0: 225716013482233563
+      icon_briefcase_1: 8046623835473782852
+      icon_briefcase_10: 6150575372240212348
+      icon_briefcase_11: 3044613193824188027
+      icon_briefcase_12: -5967676054551682685
+      icon_briefcase_13: -3122844104272896615
+      icon_briefcase_14: 9156858291024441425
+      icon_briefcase_15: -5245201718752758706
+      icon_briefcase_16: 8302042053531765325
+      icon_briefcase_17: 2800849117483088950
+      icon_briefcase_18: 381150547563631374
+      icon_briefcase_19: 3748055386063114552
+      icon_briefcase_2: 6507526618819690693
+      icon_briefcase_3: -3523963258698557048
+      icon_briefcase_4: 3693044908503266750
+      icon_briefcase_5: 283931615271118779
+      icon_briefcase_6: 2929594834330796027
+      icon_briefcase_7: -9141222307905849164
+      icon_briefcase_8: -5782018807123685430
+      icon_briefcase_9: 9150849071107518745
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

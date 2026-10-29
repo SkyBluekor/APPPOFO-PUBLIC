@@ -1,0 +1,121 @@
+{
+  "date_kst": "2026-10-29",
+  "status": "PASS",
+  "method": "Source-manifest export to a nonexistent independent folder; no original project files, Git history, Library/UPM project cache, installed model/native payload, DB or credentials copied. README official installers then executed from that source-only copy. This is a clean checkout-equivalent restoration, not a GitHub network clone before repository approval.",
+  "host": "Windows; preinstalled Unity 6000.5.4f1 license/SDK and global UPM cache available. Not a fresh OS/machine.",
+  "official_installers": {
+    "all_platforms": "PASS; 7 pinned payloads downloaded from official HTTPS, SHA256/bytes/original GUID metadata verified",
+    "tmp_compatibility": "PASS; official Unity package, four assets/original GUIDs",
+    "private_repository_required": false
+  },
+  "runtime": {
+    "status": "PASS",
+    "scope": "Fresh source-only copy, official installers, real Bootstrap Play Mode, isolated real SQLite, synthetic fixture only; no physical camera/production server.",
+    "unityVersion": "6000.5.4f1",
+    "width": 540,
+    "height": 960,
+    "importedGuidanceClips": 6,
+    "bootstrap": true,
+    "localProfileCreatedViaUI": true,
+    "sqliteReopened": true,
+    "faceStored": true,
+    "recognized": true,
+    "businessCardBound": true,
+    "guidancePlayback": true,
+    "offline": true,
+    "matchCosine": 1.000000238418579,
+    "screenshots": [
+      "01-welcome.png",
+      "02-onboarding-skills.png",
+      "03-business-card.png",
+      "04-profile-detail.png"
+    ],
+    "errors": [],
+    "database_isolation": "Actual separate persistentDataPath selected by a unique temporary productName, restored after verification; no database included in source",
+    "guidance_scope": "Six real referenced WAVs loaded; existing lazy source initializer exercised without activating camera; actual AudioSource playback verified with front clip. Spoken intelligibility/quality and hardware output not human-reviewed.",
+    "face_scope": "Real CPU YuNet/native crop+alignment/SFace twice; real SQLite embedding storage/reopen and matcher. Physical camera, pose-guided three-direction acquisition and real population accuracy NOT_VERIFIED. Earlier CPU/GPU validation retained."
+  },
+  "local_server": {
+    "status": "PASS",
+    "locked_npm_install": "PASS",
+    "local_d1_migrations": "PASS",
+    "local_worker_health": "PASS",
+    "generated_key_format": "PASS",
+    "real_server_AES_GCM_round_trip_with_generated_local_key": "PASS",
+    "remote_operations": false,
+    "secrets_printed": false,
+    "full_tests_repeated": false
+  },
+  "source_runtime_file_mismatches": [],
+  "screenshots": [
+    {
+      "path": "Docs/Images/01-welcome.png",
+      "sha256": "57bfe3e471957e4e64e4f6d9d633ba3ffface569da5a3aa2cd05e7a3c480d9dc",
+      "width": 540,
+      "height": 960,
+      "origin": "Unedited actual Unity Play Mode Game view capture from source-only restored project",
+      "data": "New synthetic demo profile; no private profile, actual person/photo, email or operational credential",
+      "review": "Visually inspected all four captures; no real person/contact or debug overlay"
+    },
+    {
+      "path": "Docs/Images/02-onboarding-skills.png",
+      "sha256": "bb92dfd89b74b925d6a68c707fa1160df5063b9b4150585c555ce238aeb2a2b7",
+      "width": 540,
+      "height": 960,
+      "origin": "Unedited actual Unity Play Mode Game view capture from source-only restored project",
+      "data": "New synthetic demo profile; no private profile, actual person/photo, email or operational credential",
+      "review": "Visually inspected all four captures; no real person/contact or debug overlay"
+    },
+    {
+      "path": "Docs/Images/03-business-card.png",
+      "sha256": "bc11c1934b10e5a681828550d26c586d2b587327cc66c8adbd959b03c6f44c4a",
+      "width": 540,
+      "height": 960,
+      "origin": "Unedited actual Unity Play Mode Game view capture from source-only restored project",
+      "data": "New synthetic demo profile; no private profile, actual person/photo, email or operational credential",
+      "review": "Visually inspected all four captures; no real person/contact or debug overlay"
+    },
+    {
+      "path": "Docs/Images/04-profile-detail.png",
+      "sha256": "ca1f6919ae157208b304e127de2ad334633c1b3cb3784314cba1fd9829789d2f",
+      "width": 540,
+      "height": 960,
+      "origin": "Unedited actual Unity Play Mode Game view capture from source-only restored project",
+      "data": "New synthetic demo profile; no private profile, actual person/photo, email or operational credential",
+      "review": "Visually inspected all four captures; no real person/contact or debug overlay"
+    }
+  ],
+  "existing_full_suites_repeated": false,
+  "previous_results_retained": {
+    "EditMode": "531/531 PASS",
+    "PlayMode": "53/53 PASS",
+    "Cloudflare": "85/85 PASS",
+    "real_CPU_GPU_inference": "PASS",
+    "Windows_Android_CSharp": "PASS",
+    "missing_script": 0
+  },
+  "encountered_and_handled": [
+    {
+      "type": "Windows deep-path import limitation",
+      "detail": "Initial deeply nested source copy produced missing Unity package files beyond Windows path limits. Fresh shorter-path source-only copy imported and ran. No global long-path registry/security setting changed; short-path setup guidance added."
+    },
+    {
+      "type": "New verification-tool assumption",
+      "detail": "First runtime smoke completed UI/real SQLite/face/card/screenshots but incorrectly required an eagerly serialized guidance AudioSource. App creates it lazily. New tool now invokes that existing initializer without opening a camera. Existing runtime/test source unchanged."
+    },
+    {
+      "type": "Editor startup diagnostic",
+      "detail": "Initial fresh import emitted a Unity Search editor-index startup exception before the runtime verification window. It did not stop scene import/Bootstrap. Final reopened run has runtime errors=[], but this is not claimed as a zero-warning/zero-diagnostic first import."
+    }
+  ],
+  "not_verified": [
+    "New OS/physical machine without preinstalled Unity/global package cache",
+    "Android physical device/complete APK or IL2CPP build",
+    "Physical webcam three-pose registration and live recognition",
+    "Human Korean speech intelligibility/accessibility review",
+    "Population recognition accuracy/FAR/FRR/liveness"
+  ],
+  "github_actions": "No Git initialization, repository creation, push, private-repository change or production deployment.",
+  "publication_decision_at_validation": "BLOCKED for unresolved icon rights; technical clone/install/runtime PASS",
+  "current_publication_decision": "Audit/PUBLICATION_DECISION.json"
+}

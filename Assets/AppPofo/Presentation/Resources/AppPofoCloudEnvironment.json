@@ -1,0 +1,6 @@
+{
+  "environment": "offline",
+  "production_faces_enabled": false,
+  "staging_faces_enabled": false,
+  "staging_base_url": ""
+}

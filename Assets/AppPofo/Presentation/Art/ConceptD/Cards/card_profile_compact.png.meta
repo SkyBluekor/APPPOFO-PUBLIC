@@ -1,0 +1,624 @@
+fileFormatVersion: 2
+guid: 98e5c0be0d7b2d74d8355f89feb67418
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -481848224555753092
+    second: card_profile_compact_0
+  - first:
+      213: 252730269839338787
+    second: card_profile_compact_1
+  - first:
+      213: 8381719705823289761
+    second: card_profile_compact_2
+  - first:
+      213: -2430863297681792335
+    second: card_profile_compact_3
+  - first:
+      213: 8202876453983686235
+    second: card_profile_compact_4
+  - first:
+      213: 6989365116951502034
+    second: card_profile_compact_5
+  - first:
+      213: 1064888925082184367
+    second: card_profile_compact_6
+  - first:
+      213: 2624814548396046330
+    second: card_profile_compact_7
+  - first:
+      213: -3054342485990392395
+    second: card_profile_compact_8
+  - first:
+      213: 7517073609605880577
+    second: card_profile_compact_9
+  - first:
+      213: -2202562423527103841
+    second: card_profile_compact_10
+  - first:
+      213: 1652852388499131452
+    second: card_profile_compact_11
+  - first:
+      213: 313736440728947035
+    second: card_profile_compact_12
+  - first:
+      213: -4619067305309066233
+    second: card_profile_compact_13
+  - first:
+      213: 1043288750275512248
+    second: card_profile_compact_14
+  - first:
+      213: 7849202644883564948
+    second: card_profile_compact_15
+  - first:
+      213: 2834716797032526198
+    second: card_profile_compact_16
+  - first:
+      213: -8847424583843825036
+    second: card_profile_compact_17
+  - first:
+      213: -4369184186666937290
+    second: card_profile_compact_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: card_profile_compact_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 2125
+        height: 705
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c71a3bbb7912059f0800000000000000
+      internalID: -481848224555753092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card_profile_compact_1
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 683
+        width: 48
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32d23c567d0e18300800000000000000
+      internalID: 252730269839338787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card_profile_compact_2
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 676
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a12d780aa9d15470800000000000000
+      internalID: 8381719705823289761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card_profile_compact_3
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 691
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b26424c5b6d34ed0800000000000000
+      internalID: -2430863297681792335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card_profile_compact_4
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 680
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5e0d189ca876d170800000000000000
+      internalID: 8202876453983686235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card_profile_compact_5
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 687
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dc9669ea863ff060800000000000000
+      internalID: 6989365116951502034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card_profile_compact_6
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 691
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faa65c8d5de37ce00800000000000000
+      internalID: 1064888925082184367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card_profile_compact_7
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 673
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af77c66cce63d6420800000000000000
+      internalID: 2624814548396046330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card_profile_compact_8
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 695
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bdb82c01bbcc95d0800000000000000
+      internalID: -3054342485990392395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card_profile_compact_9
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 689
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10b950bee92025860800000000000000
+      internalID: 7517073609605880577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card_profile_compact_10
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 677
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f922b0e352dee61e0800000000000000
+      internalID: -2202562423527103841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card_profile_compact_11
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 683
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3c85aa7d7c10f610800000000000000
+      internalID: 1652852388499131452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card_profile_compact_12
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 691
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b598ebe61ad9a5400800000000000000
+      internalID: 313736440728947035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card_profile_compact_13
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 696
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70cae6932c6c5efb0800000000000000
+      internalID: -4619067305309066233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card_profile_compact_14
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 666
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b7455e37918a7e00800000000000000
+      internalID: 1043288750275512248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card_profile_compact_15
+      rect:
+        serializedVersion: 2
+        x: 1517
+        y: 669
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 499675af738fdec60800000000000000
+      internalID: 7849202644883564948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card_profile_compact_16
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 55
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 671f4fd68efe65720800000000000000
+      internalID: 2834716797032526198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card_profile_compact_17
+      rect:
+        serializedVersion: 2
+        x: 1699
+        y: 55
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47a3ee67732a73580800000000000000
+      internalID: -8847424583843825036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card_profile_compact_18
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 39
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6349673912a8d53c0800000000000000
+      internalID: -4369184186666937290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      card_profile_compact_0: -481848224555753092
+      card_profile_compact_1: 252730269839338787
+      card_profile_compact_10: -2202562423527103841
+      card_profile_compact_11: 1652852388499131452
+      card_profile_compact_12: 313736440728947035
+      card_profile_compact_13: -4619067305309066233
+      card_profile_compact_14: 1043288750275512248
+      card_profile_compact_15: 7849202644883564948
+      card_profile_compact_16: 2834716797032526198
+      card_profile_compact_17: -8847424583843825036
+      card_profile_compact_18: -4369184186666937290
+      card_profile_compact_2: 8381719705823289761
+      card_profile_compact_3: -2430863297681792335
+      card_profile_compact_4: 8202876453983686235
+      card_profile_compact_5: 6989365116951502034
+      card_profile_compact_6: 1064888925082184367
+      card_profile_compact_7: 2624814548396046330
+      card_profile_compact_8: -3054342485990392395
+      card_profile_compact_9: 7517073609605880577
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

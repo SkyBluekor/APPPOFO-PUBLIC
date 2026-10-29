@@ -1,0 +1,244 @@
+fileFormatVersion: 2
+guid: d465d10e94fa86e449eaa6c5515ce62c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 857804967146913587
+    second: card_registration_tip_0
+  - first:
+      213: -5753725814454651693
+    second: card_registration_tip_1
+  - first:
+      213: -8734480721486926733
+    second: card_registration_tip_2
+  - first:
+      213: 6635233078674195964
+    second: card_registration_tip_3
+  - first:
+      213: -9135053017872932694
+    second: card_registration_tip_4
+  - first:
+      213: -6835851160474089917
+    second: card_registration_tip_5
+  - first:
+      213: 8551117744800404043
+    second: card_registration_tip_6
+  - first:
+      213: 4554128829687651841
+    second: card_registration_tip_7
+  - first:
+      213: -4751989732828860150
+    second: card_registration_tip_8
+  - first:
+      213: -5897857356421493730
+    second: card_registration_tip_9
+  - first:
+      213: -8409829527134474352
+    second: card_registration_tip_10
+  - first:
+      213: 4429640868545081391
+    second: card_registration_tip_11
+  - first:
+      213: -5518833903350110209
+    second: card_registration_tip_12
+  - first:
+      213: 8083142589182454478
+    second: card_registration_tip_13
+  - first:
+      213: 7643930241886013591
+    second: card_registration_tip_14
+  - first:
+      213: 7632088682725695226
+    second: card_registration_tip_15
+  - first:
+      213: -6611029564090895641
+    second: card_registration_tip_16
+  - first:
+      213: 3202012908270139094
+    second: card_registration_tip_17
+  - first:
+      213: 523367284285747905
+    second: card_registration_tip_18
+  - first:
+      213: 9106448813832483729
+    second: card_registration_tip_19
+  - first:
+      213: 8459877880759775397
+    second: card_registration_tip_20
+  - first:
+      213: -4684575878863249047
+    second: card_registration_tip_21
+  - first:
+      213: -8239677953710112541
+    second: card_registration_tip_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: card_registration_tip_0
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 167
+        width: 1863
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33f7b51a21987eb00800000000000000
+      internalID: 857804967146913587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 61c5f8ba2ec18a6438c82631188826de
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      card_registration_tip_0: 857804967146913587
+      card_registration_tip_1: -5753725814454651693
+      card_registration_tip_10: -8409829527134474352
+      card_registration_tip_11: 4429640868545081391
+      card_registration_tip_12: -5518833903350110209
+      card_registration_tip_13: 8083142589182454478
+      card_registration_tip_14: 7643930241886013591
+      card_registration_tip_15: 7632088682725695226
+      card_registration_tip_16: -6611029564090895641
+      card_registration_tip_17: 3202012908270139094
+      card_registration_tip_18: 523367284285747905
+      card_registration_tip_19: 9106448813832483729
+      card_registration_tip_2: -8734480721486926733
+      card_registration_tip_20: 8459877880759775397
+      card_registration_tip_21: -4684575878863249047
+      card_registration_tip_22: -8239677953710112541
+      card_registration_tip_3: 6635233078674195964
+      card_registration_tip_4: -9135053017872932694
+      card_registration_tip_5: -6835851160474089917
+      card_registration_tip_6: 8551117744800404043
+      card_registration_tip_7: 4554128829687651841
+      card_registration_tip_8: -4751989732828860150
+      card_registration_tip_9: -5897857356421493730
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,216 @@
+fileFormatVersion: 2
+guid: 513e5c4c10c38f24eb44bf90e61f567e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2630843374161061656
+    second: icon_skill_html5_0
+  - first:
+      213: -8842420792456575497
+    second: icon_skill_html5_1
+  - first:
+      213: -7469881437914478415
+    second: icon_skill_html5_2
+  - first:
+      213: 3168774810312947119
+    second: icon_skill_html5_3
+  - first:
+      213: 2208839041788930940
+    second: icon_skill_html5_4
+  - first:
+      213: 7599165621942688289
+    second: icon_skill_html5_5
+  - first:
+      213: 3105828626137464429
+    second: icon_skill_html5_6
+  - first:
+      213: -8323299288294630998
+    second: icon_skill_html5_7
+  - first:
+      213: 4595653411953011084
+    second: icon_skill_html5_8
+  - first:
+      213: 4987886378263603258
+    second: icon_skill_html5_9
+  - first:
+      213: -3893394029019088480
+    second: icon_skill_html5_10
+  - first:
+      213: 4362656195416288110
+    second: icon_skill_html5_11
+  - first:
+      213: -396644951248871033
+    second: icon_skill_html5_12
+  - first:
+      213: -2529974773404217251
+    second: icon_skill_html5_13
+  - first:
+      213: -8114332927648040877
+    second: icon_skill_html5_14
+  - first:
+      213: -6586569247549637448
+    second: icon_skill_html5_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: icon_skill_html5_1
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 136
+        width: 875
+        height: 981
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f5091f6329694580800000000000000
+      internalID: -8842420792456575497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 6e522aa39a14e554f9de505466c7099b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      icon_skill_html5_0: -2630843374161061656
+      icon_skill_html5_1: -8842420792456575497
+      icon_skill_html5_10: -3893394029019088480
+      icon_skill_html5_11: 4362656195416288110
+      icon_skill_html5_12: -396644951248871033
+      icon_skill_html5_13: -2529974773404217251
+      icon_skill_html5_14: -8114332927648040877
+      icon_skill_html5_15: -6586569247549637448
+      icon_skill_html5_2: -7469881437914478415
+      icon_skill_html5_3: 3168774810312947119
+      icon_skill_html5_4: 2208839041788930940
+      icon_skill_html5_5: 7599165621942688289
+      icon_skill_html5_6: 3105828626137464429
+      icon_skill_html5_7: -8323299288294630998
+      icon_skill_html5_8: 4595653411953011084
+      icon_skill_html5_9: 4987886378263603258
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

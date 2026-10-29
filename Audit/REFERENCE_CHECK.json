@@ -1,0 +1,67 @@
+{
+  "status": "PASS",
+  "unity_engine": {
+    "scenes": 3,
+    "prefabs": 6,
+    "findings": [],
+    "playerScripts": [
+      {
+        "target": "StandaloneWindows64",
+        "status": "PASS",
+        "assemblies": 44,
+        "detail": "C# player scripts only; no native loading, APK, IL2CPP or device validation."
+      },
+      {
+        "target": "Android",
+        "status": "PASS",
+        "assemblies": 43,
+        "detail": "C# player scripts only; no native loading, APK, IL2CPP or device validation."
+      }
+    ]
+  },
+  "guid_resolution": {
+    "unresolved": [],
+    "status": "PASS",
+    "packages_restored": true
+  },
+  "repair": {
+    "changes": [
+      {
+        "property": "probeVolumeResources.probeVolumeDebugShader",
+        "replacement": "Packages/com.unity.render-pipelines.core/Runtime/Debug/ProbeVolumeDebug.shader",
+        "status": "REBOUND_TO_CURRENT_OFFICIAL_CORE_RESOURCE"
+      },
+      {
+        "property": "probeVolumeResources.probeVolumeFragmentationDebugShader",
+        "replacement": "Packages/com.unity.render-pipelines.core/Runtime/Debug/ProbeVolumeFragmentationDebug.shader",
+        "status": "REBOUND_TO_CURRENT_OFFICIAL_CORE_RESOURCE"
+      },
+      {
+        "property": "probeVolumeResources.probeVolumeOffsetDebugShader",
+        "replacement": "Packages/com.unity.render-pipelines.core/Runtime/Debug/ProbeVolumeOffsetDebug.shader",
+        "status": "REBOUND_TO_CURRENT_OFFICIAL_CORE_RESOURCE"
+      },
+      {
+        "property": "probeVolumeResources.probeVolumeSamplingDebugShader",
+        "replacement": "Packages/com.unity.render-pipelines.core/Runtime/Debug/ProbeVolumeSamplingDebug.shader",
+        "status": "REBOUND_TO_CURRENT_OFFICIAL_CORE_RESOURCE"
+      },
+      {
+        "property": "probeVolumeResources.probeSamplingDebugMesh",
+        "replacement": "Packages/com.unity.render-pipelines.core/Runtime/Debug/ProbeSamplingDebugMesh.fbx",
+        "status": "REBOUND_TO_CURRENT_OFFICIAL_CORE_RESOURCE"
+      },
+      {
+        "property": "probeVolumeResources.probeSamplingDebugTexture",
+        "replacement": "Packages/com.unity.render-pipelines.core/Runtime/Debug/ProbeVolumeNumbersDisplayTex.png",
+        "status": "REBOUND_TO_CURRENT_OFFICIAL_CORE_RESOURCE"
+      }
+    ],
+    "missingLegacyField": "m_FallOffLookup is not a serialized field of current Renderer2DData; ForceReserialize removes obsolete YAML while preserving supported settings."
+  },
+  "models": {
+    "YuNet": "b50bd7ca6efb52c44a98482462ef9421",
+    "SFace": "bf55204260a4ac84d927fe4c1d8dbaa4"
+  },
+  "note": "Resolved six legacy APV resource paths to current official Core resources; current Unity serialization removed nonexistent m_FallOffLookup; original TMP sprite GUID restored by an explicit install-only Unity sample."
+}

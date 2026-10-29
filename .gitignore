@@ -1,0 +1,143 @@
+# =========================================================
+# Unity 자동 생성 폴더
+# 삭제되어도 Unity가 다시 생성하므로 Git에 올리지 않습니다.
+# =========================================================
+
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+
+# Unity 빌드 결과물
+[Bb]uild/
+[Bb]uilds/
+
+# =========================================================
+# Visual Studio / VS Code
+# =========================================================
+
+.vs/
+.vscode/
+
+# Visual Studio가 생성하는 사용자별 설정
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Unity가 생성하는 솔루션 관련 파일
+*.slnx
+*.unityproj
+
+# =========================================================
+# 운영체제 임시 파일
+# =========================================================
+
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# =========================================================
+# Unity 패키지 및 캐시
+# =========================================================
+
+.gradle/
+ExportedObj/
+.consulo/
+.idea/
+*.tmp
+*.bak
+*.swp
+
+# =========================================================
+# Unity Crash / Debug
+# =========================================================
+
+sysinfo.txt
+crashlytics-build.properties
+/debug.log
+/.perf1-access-check
+
+# =========================================================
+# 빌드된 애플리케이션
+# =========================================================
+
+*.apk
+*.aab
+*.unitypackage
+*.app
+.vsconfig
+
+# Unity / Android debug temporary build directory
+.utmp/
+
+# Unity Android build output directory
+/apk/
+
+# Administrator token must stay outside the Unity app and Git.
+.env.production
+
+# Public candidate: local-only data must never be staged
+Audit/Runtime/
+ValidationResults/
+node_modules/
+.wrangler/
+.dev.vars*
+.env*
+!.env.example
+.production/
+.staging/
+*.log
+*.db
+*.db-*
+*.sqlite
+*.sqlite3
+*.sqlite-wal
+*.sqlite-shm
+*.sqlite-journal
+*.sqlite3-wal
+*.sqlite3-shm
+*.sqlite3-journal
+*.apk
+*.aab
+*.keystore
+*.jks
+*.pfx
+*.pem
+*.key
+/tools/ExternalAssetTemplates/README.local.md
+
+# Exact upstream dependencies are installed locally, never published by this source snapshot.
+/Assets/AppPofo/Models/FaceRecognition/face_recognition_sface_2021dec.onnx
+/Assets/AppPofo/Models/FaceRecognition/face_recognition_sface_2021dec.onnx.meta
+/Packages/com.opencvplus.unity/Runtime/Plugins/Android/arm64-v8a/libOpenCvSharpExtern.so
+/Packages/com.opencvplus.unity/Runtime/Plugins/Android/arm64-v8a/libOpenCvSharpExtern.so.meta
+/Packages/com.opencvplus.unity/Runtime/Plugins/Linux/x86_64/libOpenCvSharpExtern.so
+/Packages/com.opencvplus.unity/Runtime/Plugins/Linux/x86_64/libOpenCvSharpExtern.so.meta
+/Packages/com.opencvplus.unity/Runtime/Plugins/Windows/x86_64/OpenCvSharpExtern.dll
+/Packages/com.opencvplus.unity/Runtime/Plugins/Windows/x86_64/OpenCvSharpExtern.dll.meta
+/Packages/com.opencvplus.unity/Runtime/Plugins/iOS/libOpenCvSharpExtern.a
+/Packages/com.opencvplus.unity/Runtime/Plugins/iOS/libOpenCvSharpExtern.a.meta
+/Packages/com.opencvplus.unity/Runtime/Plugins/macOS/arm64/OpenCvSharpExtern.bundle/Contents/Info.plist
+/Packages/com.opencvplus.unity/Runtime/Plugins/macOS/arm64/OpenCvSharpExtern.bundle/Contents/Info.plist.meta
+/Packages/com.opencvplus.unity/Runtime/Plugins/macOS/arm64/OpenCvSharpExtern.bundle/Contents/MacOS/OpenCvSharpExtern
+/Packages/com.opencvplus.unity/Runtime/Plugins/macOS/arm64/OpenCvSharpExtern.bundle/Contents/MacOS/OpenCvSharpExtern.meta
+/Packages/com.opencvplus.unity/Runtime/Plugins/macOS/arm64/OpenCvSharpExtern.bundle/
+/Packages/com.opencvplus.unity/Runtime/Plugins/macOS/arm64/OpenCvSharpExtern.bundle.meta
+
+# Legacy TMP sample is local install only; no uncertain artwork is redistributed.
+/Assets/TextMesh Pro/Sprites/
+/Assets/TextMesh Pro/Sprites.meta
+/Assets/TextMesh Pro/Resources/Sprite Assets/
+/Assets/TextMesh Pro/Resources/Sprite Assets.meta

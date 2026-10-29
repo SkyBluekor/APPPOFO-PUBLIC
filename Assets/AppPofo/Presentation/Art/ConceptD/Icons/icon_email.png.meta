@@ -1,0 +1,304 @@
+fileFormatVersion: 2
+guid: f0551fedadb64c04b84fc175576d8120
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5179854301825802265
+    second: icon_email_0
+  - first:
+      213: 5239338266779727929
+    second: icon_email_1
+  - first:
+      213: 2878555919572976967
+    second: icon_email_2
+  - first:
+      213: 1075626961233347413
+    second: icon_email_3
+  - first:
+      213: -9214734168306585703
+    second: icon_email_4
+  - first:
+      213: -4331222147241221106
+    second: icon_email_5
+  - first:
+      213: 2044971795196206350
+    second: icon_email_6
+  - first:
+      213: 3621490872521466256
+    second: icon_email_7
+  - first:
+      213: -6482610527637935818
+    second: icon_email_8
+  - first:
+      213: -6767264368122072453
+    second: icon_email_9
+  - first:
+      213: 1839987619636492950
+    second: icon_email_10
+  - first:
+      213: -8150812825253473622
+    second: icon_email_11
+  - first:
+      213: -4538311349076069935
+    second: icon_email_12
+  - first:
+      213: 7971821258498263154
+    second: icon_email_13
+  - first:
+      213: 2368098092461720320
+    second: icon_email_14
+  - first:
+      213: 4034976535231928346
+    second: icon_email_15
+  - first:
+      213: -9127476197017879420
+    second: icon_email_16
+  - first:
+      213: -1372634387313343919
+    second: icon_email_17
+  - first:
+      213: -3654314826811941085
+    second: icon_email_18
+  - first:
+      213: 1007191397662757279
+    second: icon_email_19
+  - first:
+      213: 3846247868302083417
+    second: icon_email_20
+  - first:
+      213: -8284569855349764898
+    second: icon_email_21
+  - first:
+      213: 1122792390353017706
+    second: icon_email_22
+  - first:
+      213: 1248576962304729769
+    second: icon_email_23
+  - first:
+      213: -3830911652825260778
+    second: icon_email_24
+  - first:
+      213: -6540326673561225900
+    second: icon_email_25
+  - first:
+      213: -1175142496957900864
+    second: icon_email_26
+  - first:
+      213: -801976429798941130
+    second: icon_email_27
+  - first:
+      213: -7748572144267073209
+    second: icon_email_28
+  - first:
+      213: 512057301695316058
+    second: icon_email_29
+  - first:
+      213: 4623943550881440453
+    second: icon_email_30
+  - first:
+      213: -9013784804659864820
+    second: icon_email_31
+  - first:
+      213: 8318000749454230580
+    second: icon_email_32
+  - first:
+      213: -2575377402812504011
+    second: icon_email_33
+  - first:
+      213: 1748764526911068053
+    second: icon_email_34
+  - first:
+      213: -6842863823806613513
+    second: icon_email_35
+  - first:
+      213: -8403566947024984591
+    second: icon_email_36
+  - first:
+      213: -2962126712850328301
+    second: icon_email_37
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: icon_email_0
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 191
+        width: 1061
+        height: 872
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9102b902b0a82e740800000000000000
+      internalID: 5179854301825802265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      icon_email_0: 5179854301825802265
+      icon_email_1: 5239338266779727929
+      icon_email_10: 1839987619636492950
+      icon_email_11: -8150812825253473622
+      icon_email_12: -4538311349076069935
+      icon_email_13: 7971821258498263154
+      icon_email_14: 2368098092461720320
+      icon_email_15: 4034976535231928346
+      icon_email_16: -9127476197017879420
+      icon_email_17: -1372634387313343919
+      icon_email_18: -3654314826811941085
+      icon_email_19: 1007191397662757279
+      icon_email_2: 2878555919572976967
+      icon_email_20: 3846247868302083417
+      icon_email_21: -8284569855349764898
+      icon_email_22: 1122792390353017706
+      icon_email_23: 1248576962304729769
+      icon_email_24: -3830911652825260778
+      icon_email_25: -6540326673561225900
+      icon_email_26: -1175142496957900864
+      icon_email_27: -801976429798941130
+      icon_email_28: -7748572144267073209
+      icon_email_29: 512057301695316058
+      icon_email_3: 1075626961233347413
+      icon_email_30: 4623943550881440453
+      icon_email_31: -9013784804659864820
+      icon_email_32: 8318000749454230580
+      icon_email_33: -2575377402812504011
+      icon_email_34: 1748764526911068053
+      icon_email_35: -6842863823806613513
+      icon_email_36: -8403566947024984591
+      icon_email_37: -2962126712850328301
+      icon_email_4: -9214734168306585703
+      icon_email_5: -4331222147241221106
+      icon_email_6: 2044971795196206350
+      icon_email_7: 3621490872521466256
+      icon_email_8: -6482610527637935818
+      icon_email_9: -6767264368122072453
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

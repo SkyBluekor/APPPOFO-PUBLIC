@@ -1,0 +1,29 @@
+{
+  "upstream_commit": "071116d63cde332e5d0d98728d6e9d0747a1a1b9",
+  "normalized_differences": [
+    "Runtime/Plugins/Windows/x86_64/OpenCvSharpExtern.dll.meta",
+    "package.json"
+  ],
+  "native": [
+    {
+      "path": "Runtime/Plugins/Android/arm64-v8a/libOpenCvSharpExtern.so",
+      "matches": true
+    },
+    {
+      "path": "Runtime/Plugins/Linux/x86_64/libOpenCvSharpExtern.so",
+      "matches": true
+    },
+    {
+      "path": "Runtime/Plugins/Windows/x86_64/OpenCvSharpExtern.dll",
+      "matches": true
+    },
+    {
+      "path": "Runtime/Plugins/iOS/libOpenCvSharpExtern.a",
+      "matches": true
+    },
+    {
+      "path": "Runtime/Plugins/macOS/arm64/OpenCvSharpExtern.bundle/Contents/MacOS/OpenCvSharpExtern",
+      "matches": true
+    }
+  ]
+}

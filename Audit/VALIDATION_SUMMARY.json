@@ -1,0 +1,157 @@
+{
+  "date_kst": "2026-10-29",
+  "publication_decision": "OWNER_APPROVED_WITH_REVIEW_NOTES",
+  "technical_restoration": "PASS",
+  "resolved_previous_failures": 29,
+  "tests": {
+    "EditMode": {
+      "status": "PASS",
+      "total": 531,
+      "passed": 531,
+      "failed": 0,
+      "skipped": 0,
+      "duration_seconds": 35.2152837,
+      "platform": "Windows Editor, Unity 6000.5.4f1, D3D11, !Manual; original automated assertions retained"
+    },
+    "PlayMode": {
+      "status": "PASS",
+      "total": 53,
+      "passed": 53,
+      "failed": 0,
+      "skipped": 0,
+      "duration_seconds": 22.8477051,
+      "platform": "Windows Editor, Unity 6000.5.4f1, D3D11, !Manual; original automated assertions retained"
+    },
+    "Cloudflare": {
+      "status": "PASS",
+      "total": 85,
+      "passed": 85,
+      "failed": 0,
+      "skipped": 0,
+      "runtime": "Node v24.19.0; synthetic tests and local Miniflare/workerd D1; no production operation"
+    }
+  },
+  "unity_editor_compilation": "PASS",
+  "player_script_compilation": [
+    {
+      "target": "StandaloneWindows64",
+      "status": "PASS",
+      "assemblies": 44,
+      "detail": "C# player scripts only; no native loading, APK, IL2CPP or device validation."
+    },
+    {
+      "target": "Android",
+      "status": "PASS",
+      "assemblies": 43,
+      "detail": "C# player scripts only; no native loading, APK, IL2CPP or device validation."
+    }
+  ],
+  "missing_scripts": 0,
+  "unresolved_guids": 0,
+  "real_inference": {
+    "CPU": "PASS",
+    "GPUCompute": "PASS",
+    "synthetic_identities": 1,
+    "embedding_dimensions": 128,
+    "scope": "Real model/native execution on Windows, not population accuracy or Android target execution"
+  },
+  "ui_png_originals_preserved": 170,
+  "ui_rights": {
+    "COPY": 150,
+    "REVIEW": 20,
+    "source": "OpenAI generation confirmed directly by user"
+  },
+  "guidance_audio": {
+    "spoken_korean_clips": 6,
+    "temporary_tones_removed": true,
+    "original_free_clova_files": "EXCLUDE; software embedding not permitted",
+    "human_listening_quality": "NOT_VERIFIED"
+  },
+  "static_security": "PASS",
+  "original_integrity": {
+    "status": "PASS",
+    "original_tracked_files_checked": 2292,
+    "changed_original_files": [],
+    "head_unchanged": true,
+    "working_tree_status_unchanged": true,
+    "candidate_git_initialized": false,
+    "github_repository_created": false,
+    "push_performed": false
+  },
+  "original_git_history_included": false,
+  "new_repository_or_push_performed": false,
+  "not_verified": [
+    "Android device/emulator native execution",
+    "Actual physical camera enrollment/recognition workflow",
+    "Recognition accuracy, FAR/FRR, demographic or liveness assessment",
+    "Complete Windows player/Android APK packaging and native-link/IL2CPP build",
+    "Human listening approval of replacement speech"
+  ],
+  "project_license": "Not selected; no root license declared",
+  "source_integrity": {
+    "status": "PASS",
+    "verification_phase": "Before first independent public commit/push",
+    "original_tracked_files_checked": 2292,
+    "changed_original_files": [],
+    "head_unchanged": true,
+    "working_tree_status_unchanged": true,
+    "candidate_git_initialized": true,
+    "candidate_git_owner_authorized": true,
+    "candidate_commit_count": 0,
+    "original_git_history_included": false,
+    "github_repository_created": false,
+    "push_performed": false
+  },
+  "classification": {
+    "COPY": 2188,
+    "EXCLUDE": 19,
+    "SANITIZE": 27,
+    "REVIEW": 58
+  },
+  "original_csharp_files_preserved": 745,
+  "original_csharp_meta_guids_preserved": true,
+  "clone_install_and_runtime": "PASS",
+  "clone_evidence": "Audit/CLONE_REPRODUCIBILITY.json",
+  "real_UI_captures": 4,
+  "existing_full_suites_repeated_in_final_packaging": false,
+  "publication_review_notes": [
+    {
+      "id": "UI_MARK_RIGHTS",
+      "scope": "public source and binary release",
+      "status": "REVIEW",
+      "paths": [
+        "Assets/AppPofo/Presentation/Art/ConceptD/Icons/icon_github.png",
+        "Assets/AppPofo/Presentation/Art/ConceptD/Icons/icon_github_silhouette.png",
+        "Assets/AppPofo/Presentation/Art/ConceptD/Icons/icon_linkedin.png",
+        "Assets/AppPofo/Presentation/Art/ConceptD/Icons/icon_skill_aws.png",
+        "Assets/AppPofo/Presentation/Art/ConceptD/Icons/icon_skill_cpp.png",
+        "Assets/AppPofo/Presentation/Art/ConceptD/Icons/icon_skill_csharp.png",
+        "Assets/AppPofo/Presentation/Art/ConceptD/Icons/icon_skill_css3.png",
+        "Assets/AppPofo/Presentation/Art/ConceptD/Icons/icon_skill_docker.png",
+        "Assets/AppPofo/Presentation/Art/ConceptD/Icons/icon_skill_fastapi.png",
+        "Assets/AppPofo/Presentation/Art/ConceptD/Icons/icon_skill_java.png",
+        "Assets/AppPofo/Presentation/Art/ConceptD/Icons/icon_skill_javascript.png",
+        "Assets/AppPofo/Presentation/Art/ConceptD/Icons/icon_skill_linux.png",
+        "Assets/AppPofo/Presentation/Art/ConceptD/Icons/icon_skill_mssql.png",
+        "Assets/AppPofo/Presentation/Art/ConceptD/Icons/icon_skill_mysql.png",
+        "Assets/AppPofo/Presentation/Art/ConceptD/Icons/icon_skill_opencv.png",
+        "Assets/AppPofo/Presentation/Art/ConceptD/Icons/icon_skill_python.png",
+        "Assets/AppPofo/Presentation/Art/ConceptD/Icons/icon_skill_react.png",
+        "Assets/AppPofo/Presentation/Art/ConceptD/Icons/icon_skill_typescript.png",
+        "Assets/AppPofo/Presentation/Art/ConceptD/Icons/icon_skill_unity.png",
+        "Assets/AppPofo/Presentation/Art/ConceptD/Icons/icon_skill_yolo.png"
+      ],
+      "reason": "20 unchanged generated brand/technology icons have unresolved current-style artwork/mark usage conditions. OpenAI source/output ownership is confirmed; blanket unknown-generator blocker is closed."
+    },
+    {
+      "id": "DEPENDENCY_BUNDLING",
+      "scope": "only when directly redistributing models/native/TMP samples or producing a bundled APK/installer",
+      "status": "REVIEW",
+      "reason": "SFace exact-weight provenance question and native transitive/Intel IPP notices, plus exact legacy EmojiOne sample rights, remain incomplete. Official pinned install-only route is implemented and tested; these files are excluded from the source publication snapshot."
+    }
+  ],
+  "publication_blockers": [],
+  "publication_authorization": "Audit/PUBLICATION_DECISION.json",
+  "third_party_rights_review": "REVIEW; not upgraded to legal clearance",
+  "binary_redistribution": "NOT_APPROVED by this source-only publication"
+}

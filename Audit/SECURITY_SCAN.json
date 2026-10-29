@@ -1,0 +1,24 @@
+{
+  "date_kst": "2026-10-29",
+  "status": "PASS",
+  "source_files_scanned": 2347,
+  "local_install_files_scanned": 23,
+  "findings": [],
+  "known_values_printed": false,
+  "candidate_git_present": true,
+  "original_git_history_included": false,
+  "new_public_git_owner_authorized": true,
+  "new_public_commit_count_at_scan": 0,
+  "original_credentials_or_runtime_files_copied": false,
+  "safe_offline_defaults": "PASS",
+  "png_files_inspected": 176,
+  "png_text_or_exif_chunks": [
+    {
+      "path": "Assets/TextMesh Pro/Sprites/EmojiOne.png",
+      "chunk_type": "iTXt",
+      "bytes": 1629
+    }
+  ],
+  "phone_pattern_review": "Previous heuristic matches were serialized numeric font-atlas data; no actual phone contact identified in reviewed source/tests. No new personal-contact fixture added.",
+  "limitations": "Known original credential/host/D1/cloud/device values and secret/path/artifact patterns, plus PNG metadata inspection. Not a proof that every unknown secret or personal name is absent. Required copyright-holder contacts retained. Native payloads matched official fixed-source hashes; binary code not exhaustively reverse engineered."
+}

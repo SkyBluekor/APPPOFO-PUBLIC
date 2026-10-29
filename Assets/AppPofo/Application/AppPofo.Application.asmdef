@@ -1,0 +1,16 @@
+{
+    "name": "AppPofo.Application",
+    "rootNamespace": "AppPofo.Application",
+    "references": [
+        "GUID:4b952c5ad7939bd42adde6cec1c2b1ac"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

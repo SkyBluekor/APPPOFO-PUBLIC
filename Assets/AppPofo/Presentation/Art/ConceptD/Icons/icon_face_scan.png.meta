@@ -1,0 +1,260 @@
+fileFormatVersion: 2
+guid: b3be5625758821f40beb1c49565eb03b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5881876521904007992
+    second: icon_face_scan_0
+  - first:
+      213: 3559962483901593864
+    second: icon_face_scan_1
+  - first:
+      213: 3214610921061348355
+    second: icon_face_scan_2
+  - first:
+      213: -5722859268240016523
+    second: icon_face_scan_3
+  - first:
+      213: 8111418060652943566
+    second: icon_face_scan_4
+  - first:
+      213: 7992946732136647170
+    second: icon_face_scan_5
+  - first:
+      213: 694409057551780647
+    second: icon_face_scan_6
+  - first:
+      213: 4118641966868031114
+    second: icon_face_scan_7
+  - first:
+      213: 6150012615478609634
+    second: icon_face_scan_8
+  - first:
+      213: 844941489852465787
+    second: icon_face_scan_9
+  - first:
+      213: -7830017082315581873
+    second: icon_face_scan_10
+  - first:
+      213: 8498385179108030691
+    second: icon_face_scan_11
+  - first:
+      213: -7546310922210577224
+    second: icon_face_scan_12
+  - first:
+      213: 629895493346409112
+    second: icon_face_scan_13
+  - first:
+      213: 13483261359371874
+    second: icon_face_scan_14
+  - first:
+      213: 7818973934270351448
+    second: icon_face_scan_15
+  - first:
+      213: -5327270333046298998
+    second: icon_face_scan_16
+  - first:
+      213: 980924354895425179
+    second: icon_face_scan_17
+  - first:
+      213: 3395111584136605640
+    second: icon_face_scan_18
+  - first:
+      213: 489207715666361324
+    second: icon_face_scan_19
+  - first:
+      213: -5730149298841770038
+    second: icon_face_scan_20
+  - first:
+      213: 8703666528494662539
+    second: icon_face_scan_21
+  - first:
+      213: -3086014819025822501
+    second: icon_face_scan_22
+  - first:
+      213: -3343438338948372179
+    second: icon_face_scan_23
+  - first:
+      213: 5685346456842957027
+    second: icon_face_scan_24
+  - first:
+      213: -2804497509607551224
+    second: icon_face_scan_25
+  - first:
+      213: -8555054438798877501
+    second: icon_face_scan_26
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: icon_face_scan_0
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 167
+        width: 938
+        height: 916
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83b6ccc788f90a150800000000000000
+      internalID: 5881876521904007992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 35d32cab0e6fb7248b1c3e418e6700e3
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      icon_face_scan_0: 5881876521904007992
+      icon_face_scan_1: 3559962483901593864
+      icon_face_scan_10: -7830017082315581873
+      icon_face_scan_11: 8498385179108030691
+      icon_face_scan_12: -7546310922210577224
+      icon_face_scan_13: 629895493346409112
+      icon_face_scan_14: 13483261359371874
+      icon_face_scan_15: 7818973934270351448
+      icon_face_scan_16: -5327270333046298998
+      icon_face_scan_17: 980924354895425179
+      icon_face_scan_18: 3395111584136605640
+      icon_face_scan_19: 489207715666361324
+      icon_face_scan_2: 3214610921061348355
+      icon_face_scan_20: -5730149298841770038
+      icon_face_scan_21: 8703666528494662539
+      icon_face_scan_22: -3086014819025822501
+      icon_face_scan_23: -3343438338948372179
+      icon_face_scan_24: 5685346456842957027
+      icon_face_scan_25: -2804497509607551224
+      icon_face_scan_26: -8555054438798877501
+      icon_face_scan_3: -5722859268240016523
+      icon_face_scan_4: 8111418060652943566
+      icon_face_scan_5: 7992946732136647170
+      icon_face_scan_6: 694409057551780647
+      icon_face_scan_7: 4118641966868031114
+      icon_face_scan_8: 6150012615478609634
+      icon_face_scan_9: 844941489852465787
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

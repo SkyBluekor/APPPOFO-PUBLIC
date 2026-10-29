@@ -1,0 +1,31 @@
+name: AppPofo Cloud API Tests
+
+on:
+  push:
+    paths:
+      - "cloudflare/apppofo-api/**"
+      - ".github/workflows/apppofo-cloud-api.yml"
+  pull_request:
+    paths:
+      - "cloudflare/apppofo-api/**"
+      - ".github/workflows/apppofo-cloud-api.yml"
+
+permissions:
+  contents: read
+
+jobs:
+  api:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    defaults:
+      run:
+        working-directory: cloudflare/apppofo-api
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+          cache: npm
+          cache-dependency-path: cloudflare/apppofo-api/package-lock.json
+      - run: npm ci
+      - run: npm test

@@ -1,0 +1,9 @@
+# Preserve reviewed snapshot and original Unity metadata bytes across checkouts.
+# SHA-256 checks intentionally include line endings; disable automatic EOL conversion.
+* -text
+*.png binary
+*.jpg binary
+*.onnx binary
+*.wav binary
+*.otf binary
+*.ttf binary
