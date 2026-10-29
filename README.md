@@ -105,22 +105,7 @@ flowchart TD
 
 [Android 성능 문제 분석과 실측 기록](Docs/ANDROID_PERFORMANCE.md) · [문제 해결 과정과 코드](Docs/DEVELOPMENT.md)
 
-## 6. 검증 결과와 한계
-
-| 확인 항목 | 확인 결과와 범위 |
-|---|---|
-| **실제 Android 동작** | 원본 앱의 Galaxy Tab A7에서 얼굴 등록·실시간 인식·명함 표시 확인 |
-| **Unity EditMode** | **531/531 PASS** (기존 Windows Editor 자동 테스트) |
-| **Unity PlayMode** | **53/53 PASS** (기존 Windows Editor 자동 테스트) |
-| **Cloudflare 서버 테스트** | **85/85 PASS** (로컬·합성 데이터) |
-| **공개 소스 실행 재현** | 별도 소스 폴더에서 Unity Play Mode, 실제 모델 추론, SQLite 저장·조회, 명함 UI 확인(합성 얼굴 입력) |
-| **추가 검증 필요** | 공개본 새 Android APK의 실기기 실행, 여러 기기·조명 환경의 인식 정확도, 대규모 오인식률 |
-
-자동 테스트의 통과 개수는 **얼굴 인식 정확도**를 의미하지 않습니다. 원본 실기기 사진과 공개 소스 복원 테스트의 조건도 다릅니다.
-
-[자동 테스트 기록](Audit/TEST_RESULTS.json) · [공개본 복원 검증](Audit/CLONE_REPRODUCIBILITY.json)
-
-## 7. 실행 방법
+## 6. 실행 방법
 
 **Unity 6000.5.4f1 · Python 3.9+ · Git**이 필요합니다. 소스 코드를 받은 후 **Unity를 열기 전에** 공식 의존성을 설치해야 합니다.
 
@@ -135,7 +120,7 @@ Unity에서 `Assets/AppPofo/Presentation/Scenes/Bootstrap.unity`를 열고 Play�
 
 설치 환경·화면 크기·오류 해결: [처음 실행하는 사람을 위한 안내](Docs/GETTING_STARTED.md)
 
-## 8. 문서 모음
+## 7. 문서 모음
 
 | 문서 | 읽으면 알 수 있는 것 |
 |---|---|
