@@ -91,7 +91,15 @@ flowchart TD
 | **데이터 관리** | 얼굴 특징과 프로필을 SQLite에 연결해 저장·조회 | [SQLite 저장소](Assets/AppPofo/Infrastructure/SQLite/Repositories/SQLiteFaceEmbeddingRepository.cs) |
 | **인식 → 명함 표시** | 카메라 인식 결과를 프로필 ID와 연결하고 실제 명함 UI 표시 | [인식 화면](Assets/AppPofo/Presentation/FaceRecognition/FaceRecognitionCamera.cs) · [명함 UI](Assets/AppPofo/Presentation/Screens/BusinessCardPanelController.cs) |
 
-**구현 범위의 구분:** 얼굴 인식 결과·임베딩·프로필별 명함 출력을 연결하는 것이 포트폴리오의 핵심입니다. 외부 학습 모델, OpenCV, Unity·SQLite 라이브러리를 새로 만들었다는 의미는 아닙니다. 전체 저장소의 모든 코드를 한 사람이 직접 작성했다고 주장하지도 않습니다.
+### 담당 구현 및 기여
+
+AppPoFo에서 중점적으로 구현한 부분은 **얼굴 인식 결과를 사용자 프로필과 연결하여 디지털 명함을 표시하는 기능**입니다.
+
+- **얼굴 등록 및 임베딩 관리:** 등록된 얼굴에서 추출한 특징 벡터(임베딩)를 사용자 프로필과 연결하고, 저장된 데이터를 인식 과정에서 활용하도록 구성했습니다.
+- **얼굴 인식 및 사용자 매칭:** 카메라에서 인식한 얼굴의 임베딩과 등록된 데이터를 비교하여 해당 인물의 프로필을 식별하는 기능을 구현했습니다.
+- **디지털 명함 연동:** 인식된 사용자의 프로필 정보를 조회하고, 카메라 화면에 해당 인물의 디지털 명함이 표시되도록 연결했습니다.
+
+**기술 활용 범위:** 얼굴 검출과 특징 추출에는 사전 학습된 YuNet·SFace 모델을 활용했습니다. 모델 자체를 학습하거나 추론 엔진을 처음부터 개발한 것은 아니며, 기존 AI 기술을 Unity/C# 애플리케이션의 데이터 처리 및 사용자 인터페이스와 통합하는 데 집중했습니다.
 
 ### 왜 이 기술을 선택했나?
 
